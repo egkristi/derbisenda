@@ -252,9 +252,9 @@ Systemet består av frontmontert radiator, slanger, vannpumpe og vannkappe integ
 
 | Parameter | Fabrikk (urestriktert) | Begrenset (L1e) |
 |-----------|------------------------|-----------------|
-| Hoveddyse (main jet) | 85 | 74 |
+| Hoveddyse (main jet) | 85 | 74 (noen markeder: 72–75) |
 | Nålejett | A13, hakk #2 | – |
-| Tomgangsdyse (pilot jet) | 30 | 30 |
+| Tomgangsdyse (pilot jet) | 30 | 30 (noen markeder: 34–36) |
 | Forgasserstørrelse | 17,5 mm | 17,5 mm |
 | Luftskrue | – | 1,5–2,5 svinger ut |
 | Nål | – | Midterste hakk |
