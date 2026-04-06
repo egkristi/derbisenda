@@ -24,13 +24,13 @@
 12. [Tuning (kun til informasjon)](#12-tuning-kun-til-informasjon)
 13. [Rask referansekort](#13-rask-referansekort)
 
-> Felles informasjon om merkehistorie, Senda-plattformen, L1e-regler, manualer, leverandører, verksteder og forum: se [hovedsiden](../README.md).
+> Felles informasjon om merkehistorie, Senda-plattformen, L1e-regler, manualer, leverandører, verksteder og forum: se [hovedsiden](../../README.md).
 
 ---
 
 ## 1. Merke- og modellhistorie
 
-> For fullstendig Derbi-historie og Senda-plattformbeskrivelse, se [hovedsiden](../README.md).
+> For fullstendig Derbi-historie og Senda-plattformbeskrivelse, se [hovedsiden](../../README.md).
 
 Din sykkel tilsvarer **Senda R X-Race / X-Treme**-varianten fra 2004 (Euro 2) og representerer høydepunktet av den opprinnelige EBS/EBE-motorgenerasjonen.
 
@@ -507,6 +507,6 @@ Moment:         Plugg 18 Nm, Sylinderhode 12 Nm, Hjulaksel 60 Nm
 
 ---
 
-> Manualer, leverandører, verksteder, forum og kilder: se [hovedsiden](../README.md).
+> Manualer, leverandører, verksteder, forum og kilder: se [hovedsiden](../../README.md).
 
 *Sist oppdatert: April 2026*

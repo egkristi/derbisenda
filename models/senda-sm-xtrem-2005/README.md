@@ -25,13 +25,13 @@
 12. [Tuning (kun til informasjon)](#12-tuning-kun-til-informasjon)
 13. [Rask referansekort](#13-rask-referansekort)
 
-> Felles informasjon om merkehistorie, Senda-plattformen, L1e-regler, manualer, leverandører, verksteder og forum: se [hovedsiden](../README.md).
+> Felles informasjon om merkehistorie, Senda-plattformen, L1e-regler, manualer, leverandører, verksteder og forum: se [hovedsiden](../../README.md).
 
 ---
 
 ## 1. Merke- og modellhistorie
 
-> For fullstendig Derbi-historie og Senda-plattformbeskrivelse, se [hovedsiden](../README.md).
+> For fullstendig Derbi-historie og Senda-plattformbeskrivelse, se [hovedsiden](../../README.md).
 
 Din sykkel er fra **2005** – det siste primære produksjonsåret med EBS050-motoren før Piaggio faset inn D50B0 (Euro 3) for modellåret 2006. Den representerer høydepunktet av den opprinnelige motorgenerasjonen.
 
@@ -704,7 +704,7 @@ Termostat:      Åpner 60°C, Vifte 97°C
 
 ---
 
-> Manualer, leverandører, verksteder, forum og kilder: se [hovedsiden](../README.md).
+> Manualer, leverandører, verksteder, forum og kilder: se [hovedsiden](../../README.md).
 
 *Dokumentet er sammenstilt fra offentlige registreringsdata (Statens vegvesen), teknisk dokumentasjon fra Derbi/Nacional Motor/Piaggio, Dell'Orto dokumentasjon, og samfunnsbasert kunnskap fra Derbi Senda-eiere.*
 
