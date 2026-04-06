@@ -393,7 +393,7 @@ Dobbel vuggeramme (perimeterramme) av høyfast, sveiset stål. Massivt overdimen
 |-----------|------------------------|--------------------------|
 | Frontgaffel | Hydraulisk teleskop, Ø37mm (Paioli/Marzocchi/Showa) | Hydraulisk teleskop, Ø37mm |
 | Fjæringsvei foran | 170–180 mm | 190 mm |
-| Bakdemper | Monoshock (gass, lineær) stålsvingarm | Monoshock stålsvingarm |
+| Bakdemper | Monoshock (gass, lineær) aluminium svingarm | Monoshock stålsvingarm |
 | Fjæringsvei bak | ~182–200 mm | ~180 mm |
 
 Den reduserte fjæringsveien foran (vs. R-versjonen) senker tyngdepunktet, reduserer «nosedive» under bremsing og skjerper styreresponsen for asfaltbruk.
@@ -672,6 +672,11 @@ Ekstremt vanlig etter alt kjølevæskearbeid i det lille ~1,1 L systemet. Luft g
 4. Bytt fronttannhjul til 14T / 52T bak
 5. Euro 2 CDI er generelt ikke hardlimitert – mange har kun myk begrenser ved ~12 000 RPM
 
+### Videoressurser og tutorials
+
+- **ScegliaAuto.com** — Bibliotek med Derbi Senda 50cc vedlikeholdsvideoer: tennpluggbytte, oljeskift, gaffeloljeskift, motordemontring, bremsevæskebytte, kjede/tannhjul-fjerning
+- **Maxiscoots YouTube-kanal** — Flerepisodes Derbi Senda byggeserie som dekker 70cc sylindersett-installasjon, forgasseroppsett, eksosanlegg, klutsj og veivaksler
+
 ### Ytelsesmodifikasjoner (kun off-road/bane)
 
 #### Eksosanlegg
@@ -704,6 +709,11 @@ Ekstremt vanlig etter alt kjølevæskearbeid i det lille ~1,1 L systemet. Luft g
 | Keihin PWK 24–28mm | Store sylindersett |
 
 For 70cc sylindersett: hoveddyse ~#90–95.
+
+#### Tenningsoppgraderinger
+
+- Interne rotor-tenningssett (MVT, Italkit, HPI) — fjerner tung ekstern svinghjul for lettere vekt og høyere turtall (kun racing)
+- Sport-klutsjsett fra Stage6 og Malossi
 
 ### Den gylne regelen for 2-takts tuning
 
@@ -844,8 +854,11 @@ Sylinder, veivaksel og eksosanlegg må **matche til samme ytelsesnivå** (Origin
 | Forum/Kilde | Fokus |
 |-------------|-------|
 | ApriliaForum | Relevant pga. delt plattform med Aprilia RS50 |
+| PocketBikePlanet.com | Detaljerte Dell'Orto PHVA tuning-tråder med spesifikke jettingoppsett |
 | MC-forumet.no | Norsk generelt MC-forum med Senda-prosjekter |
 | Raketsport.com / Razzer.se | Svenske – Derbi feilsøking |
+| 125cc Sportsbikes Forum / Bike Chat Forums (UK) | Aktive Senda-tråder |
+| Forocoches (Spania) | Senda restaureringstråder |
 | Embarrados.com | Spansk enduro/trail med tuning-diskusjoner |
 | Autoevolution – Derbi Senda | https://www.autoevolution.com/moto/derbi/senda/ |
 | Wikipedia – Derbi Senda | https://en.wikipedia.org/wiki/Derbi_Senda |
