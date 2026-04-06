@@ -19,61 +19,18 @@
 7. [Transmisjon og drivverk](#7-transmisjon-og-drivverk)
 8. [Chassis, hjuloppheng og bremser](#8-chassis-hjuloppheng-og-bremser)
 9. [Elektrisk system](#9-elektrisk-system)
-10. [Norsk L1e-begrensning](#10-norsk-l1e-begrensning)
-11. [Vedlikehold – service og intervaller](#11-vedlikehold--service-og-intervaller)
-12. [Diagnostikk og feilsøking](#12-diagnostikk-og-feilsøking)
-13. [Tuning (kun til informasjon)](#13-tuning-kun-til-informasjon)
-14. [Manualer og dokumentasjon](#14-manualer-og-dokumentasjon)
-15. [Reservedeler – leverandører](#15-reservedeler--leverandører)
-16. [Verksteder og regional infrastruktur (Agder)](#16-verksteder-og-regional-infrastruktur-agder)
-17. [Eierfellesskap og forum](#17-eierfellesskap-og-forum)
-18. [Rask referansekort](#18-rask-referansekort)
-19. [Kilder](#19-kilder)
+10. [Vedlikehold – service og intervaller](#10-vedlikehold--service-og-intervaller)
+11. [Diagnostikk og feilsøking](#11-diagnostikk-og-feilsøking)
+12. [Tuning (kun til informasjon)](#12-tuning-kun-til-informasjon)
+13. [Rask referansekort](#13-rask-referansekort)
+
+> Felles informasjon om merkehistorie, Senda-plattformen, L1e-regler, manualer, leverandører, verksteder og forum: se [hovedsiden](../README.md).
 
 ---
 
 ## 1. Merke- og modellhistorie
 
-### Derbi – fra sykkelverksted til Piaggio
-
-Selskapets opprinnelse kan spores tilbake til 1922, da gründeren Simeó Rabasa i Singla (1901–1988) etablerte et sykkelverksted i Mollet del Vallès, Catalonia, Spania. I de første to tiårene var kjernevirksomheten utelukkende reparasjon og utleie av tråsykler.
-
-I mai 1944 etablerte Rabasa, sammen med sin bror Josep og en gruppe investorer, aksjeselskapet **Bicicletas Rabasa**. Selskapets aggressive ekspansjon resulterte i at de i 1946 kunne opprette en dedikert forsknings- og utviklingsavdeling for motoriserte prototyper, utstyrt med innovative teleskopgafler og stive rammer.
-
-I 1948 inngikk Fiat-direktør Óscar Ravá (som hadde flyktet fra fascist-Italia til Spania) en lisensavtale med Moto Guzzi for å produsere deres motorsykler i Spania. Ravá outsourcet produksjonen av rammer, gafler og metallplater til Rabasa, noe som resulterte i lanseringen av den første 65 cc Moto Guzzi Hispania i august 1949. Parallelt startet Rabasa produksjonen av SRS-serien – en moped oppkalt etter grunnleggerens initialer, drevet av en IRESA 48 cc totaktsmotor med 1,5 hk, toppfart 45 km/t og manuell to-trinns girkasse.
-
-I 1950 ble selskapet omstrukturert til **Nacional Motor Rabasa S.A.** og det ikoniske merkenavnet **DERBI** ble presentert – et akronym fra den spanske frasen *«DERivada de BIcicleta»* (utledet fra sykkel). Samme år debuterte den første dedikerte Derbi-motorsykkelen med 250 cc og 9 hk.
-
-| År | Hendelse |
-|----|----------|
-| 1922 | Simeó Rabasa i Singla grunnlegger sykkelverksted i Mollet del Vallès |
-| 1944 | Registrerer «Bicicletas Rabasa» for sykkelproduksjon |
-| 1946 | Starter arbeid med motorisert moped (SRS) |
-| 1949 | Første 65 cc Moto Guzzi Hispania produsert av Rabasa for Óscar Ravá |
-| 1950 | Firmanavnet endres til Nacional Motor S.A.; merkenavnet DERBI lanseres |
-| 1950-tallet | Lanserer Derbi 250 – selskapets første ekte motorsykkel |
-| 1969–1972 | Vinner 50cc VM-tittelen tre ganger |
-| 1986–1989 | Dominerer 80cc-klassen i fire sesonger på rad |
-| 1988 | Grunnleggerne Rabasa og Singla dør; selskapet forblir uavhengig |
-| 1993 | Senda-modellen lanseres for første gang |
-| 1995 | EBE/EBS-motoren introduseres i Senda 50 |
-| 2000 | Ny stål perimeterramme (twin-spar) introduseres |
-| 2001 | Piaggio Group kjøper Derbi |
-| 2004 | **Din sykkel produseres** – Euro 2-sertifisert |
-| 2005 | D50B0/D50B1-motoren erstatter EBS i nye modeller |
-| 2023 | Produksjonen av Derbi Senda avsluttes etter 30 år |
-
-### Senda-plattformen
-
-Derbi Senda ble introdusert i 1995 og representerte et teknologisk paradigmeskifte i 50 cc-segmentet. Serien ble utviklet gjennom 22 generasjoner frem til produksjonen ble faset ut i 2023. Det som skilte Senda fra konkurrerende mopeder var chassis-komponenter og rammegeometri normalt forbeholdt fullstørrelse motorsykler – stive perimeterrammer, avanserte hydrauliske fjæringssystemer og overdimensjonerte skivebremser.
-
-Senda selges i to grunnvarianter:
-- **R** – Enduro/trail med høye hjul (21" foran, 18" bak), lang fjæringsreise
-- **SM** – Supermotard med lave hjul (17"), kortere fjæring, veiorientert
-
-Undermodeller inkluderte gjennom årene: X-Treme, DRD, DRD Pro, Racer, X-Race, Black Edition.
-
-Etter Piaggio-oppkjøpet i 2001 deles Senda-plattformen direkte med **Gilera SMT 50** og **Gilera RCR 50** – identisk konstruksjon med mange felles komponenter.
+> For fullstendig Derbi-historie og Senda-plattformbeskrivelse, se [hovedsiden](../README.md).
 
 Din sykkel tilsvarer **Senda R X-Race / X-Treme**-varianten fra 2004 (Euro 2) og representerer høydepunktet av den opprinnelige EBS/EBE-motorgenerasjonen.
 
@@ -402,23 +359,7 @@ Regulator → Lys
 
 ---
 
-## 10. Norsk L1e-begrensning
-
-Sykkelen er registrert som moped klasse L1e med topphastighet **45 km/t**. For å oppfylle dette er følgende typisk begrenset fra fabrikk:
-
-| Begrensningspunkt | Metode |
-|-------------------|--------|
-| CDI | Begrenset til ~9400 RPM |
-| Forgasser | Redusert hoveddyse (74 i stedet for 85) |
-| Luftfilter | Kvelningsplate i innsugskanal |
-| Eksosrør | Trykkrestriksjon i ekspansjonskammer |
-| Fremre tannhjul | Redusert fra 14T til 11–12T |
-
-For lovlig norsk bruk som L1e-moped skal alle begrensningene være intakte.
-
----
-
-## 11. Vedlikehold – service og intervaller
+## 10. Vedlikehold – service og intervaller
 
 ### Offisielle serviceintervaller
 
@@ -470,7 +411,7 @@ Kontroller at tenningspunktet er korrekt med stroboskoplys ved anledning. EBS-mo
 
 ---
 
-## 12. Diagnostikk og feilsøking
+## 11. Diagnostikk og feilsøking
 
 ### Kompresjonstesting
 
@@ -510,7 +451,7 @@ To hovedårsaker:
 
 ---
 
-## 13. Tuning (kun til informasjon)
+## 12. Tuning (kun til informasjon)
 
 > ⚠️ **Enhver derestriksjon eller effektøkning vil gjøre sykkelen ulovlig som L1e-moped i Norge.** Informasjonen under er kun for mekanisk forståelse og eventuell banebruk.
 
@@ -538,101 +479,7 @@ To hovedårsaker:
 
 ---
 
-## 14. Manualer og dokumentasjon
-
-### Offisiell dokumentasjon
-
-| Ressurs | URL |
-|---------|-----|
-| Derbi offisielle manualer | https://manuals.derbi.com/ |
-| Gratis Derbi-manualer (carlsalter.com) | https://www.carlsalter.com/derbi-service-manuals.asp |
-| Verkstedmanual EBS 50cc 6-girs (PDF, engelsk) | https://www.50factory.com/pdf/telecharger/Derbi%20Senda%20-%20Revue%20technique%20-%20Anglais.pdf |
-| Scribd – Derbi Senda Service Manual DRD | https://www.scribd.com/doc/59179403/Derbi-Senda-Service-Manual-DRD-Model |
-| Scribd – Senda DRD Racing (867267) | https://www.scribd.com/document/786054674/867267-Senda-DRD-Racing-En |
-| MotorcycleManuals.info | https://www.motorcyclemanuals.info/motocycles-atvs/derbi/ |
-| ManualsLib – Senda R DRD PRO 50 | https://www.manualslib.com/products/Derbi-Senda-R-Drd-Pro-50-C-C-4151797.html |
-
-### Innhold i verkstedmanualen (EBS 6-girs)
-
-Manualen (Nacional Motor S.A.U.) dekker:
-- Vedlikehold – generelle regler
-- Kjøretøyidentifikasjon
-- Generelle tekniske spesifikasjoner
-- Demontasje og montering av motor (komplett)
-- Forgasser
-- Hjuloppheng og bremser
-- Elektrisk diagram og koblingsskjemaer
-- Strammomenter (Tightening Torques) for alle skruer
-- Slitasjetoleranser (mikrometermål)
-- Spesialverktøy (avdrager for svinghjul, motholdstang for kløtsj, osv.)
-
-> Manualen forutsetter grunnleggende forståelse for mekaniske prinsipper.
-
----
-
-## 15. Reservedeler – leverandører
-
-### OEM / originaldeler og delekataloger
-
-| Leverandør | Merknader | URL |
-|-----------|-----------|-----|
-| OEM-bike-parts.com | Senda R 50 X-Race E2 2004 – interaktive eksploderte tegninger | https://oem-bike-parts.com/en/parts/derbi/senda-50-r/2004/senda-r-50-x-race-e2-2004-emea-at-es-fr-gb-nl-se |
-| oem-parts.hu | Senda R 50 X-Trem 2 Edicion E2 2005 | https://oem-parts.hu/en/parts/derbi/senda-50-r/2004/senda-r-50-x-trem-2-edicion-e2-2005-emea-at-dk-es-fr-gb-it-se |
-| EasyParts | Eksploderte visninger Senda R 50 2T X-Race E2 2004 | https://www.easyparts.com/explodedviews/Genuine-parts-Derbi-Senda-R-50-2T-X-Race-E2-2004-(EMEA)-m1671 |
-
-Disse databasene kryssrefererer deler med regionale EMEA-varianter og gir unike 10-sifrede Piaggio-delenummer.
-
-### EBS-spesialist og aftermarket
-
-| Leverandør | Spesialitet | URL |
-|-----------|-------------|-----|
-| Pedparts UK | EBS-deler, panel, motor | https://www.pedparts.co.uk/bikes/derbi/senda-to-05-ebs |
-| Racing-planet.com | EBE/EBS tuning og originaldeler | https://www.racing-planet.com |
-| Dataparts.eu | Tuning, filter, eksos | https://www.dataparts.eu/en/derbi/senda-r/tuning |
-| 50factory.com | Franske spesialister, teknisk ressurs | https://www.50factory.com |
-| Maxiscoot | Tuning og originaldeler for 50cc-scenen | https://www.maxiscoot.com/en/shop-by-brand/derbi-en/ |
-| Scooter-Center | Derbi deler og tuning | https://www.scooter-center.com/en/derbi/c-952.html |
-| MotoShopItalia | Derbi deler | https://www.motoshopitalia.com/en/accessories-and-spare-parts-universal/motorcycle-scooter-spare-parts/derbi-spare-parts.html |
-
-### Kritiske slitasjedeler å ha på lager
-
-- Tennplugg NGK BR9ES (kjøp 2–3)
-- Forgasserdyse sett (74, 78, 82, 85 – standard og begrenset)
-- Gaffeltetningssett (to-par)
-- Kjede 420 + tannhjulsett (14T/52T)
-- Eksospakning (sylinder → eksosrør)
-- Bremsepar (foran og bak)
-- Kjølevæske (G12/G13)
-- Koplingskabel og gasskabel (reserve)
-
----
-
-## 16. Verksteder og regional infrastruktur (Agder)
-
-| Verksted | Lokalitet | Tjenester |
-|----------|-----------|-----------|
-| **Agder Teknikk AS** | Grøm Næringspark 15, Grimstad | Reparasjon, service, diagnose på mopeder/lette kjøretøy. Kan tilvirke og reparere deler (dreiing/fresing) – essensiell for uerstattelige deler. [agderteknikk.no](https://agderteknikk.no/) |
-| **Jorkjen MC A/S** | Frolandsveien 410, Arendal | Godkjent MC-verksted med fagbrev. Service, vinterlagring (beskytter mot salt, fukt og frost), slitedeler med kort leveringstid. [jorkjenmc.no](http://jorkjenmc.no/) |
-| **Bil og Bobil (CFMoto)** | Industriveien 25, Grimstad | Autorisert CFMoto/Ligier-forhandler. Periodisk vedlikehold, elektrisk diagnostikk, ekstrautstyr, kjøreutstyr (Bullfighter). [cfmotosor.no](https://www.cfmotosor.no/) |
-| **TR Båt & Fritid DA** | Grimstad | Batterier, smøremidler, 2-taktsolje, generell tohjulings-rekvisita. |
-| **Motorsyklisten / MC-senteret** | Kristiansand | Sørlandets største nav for tohjuls-rekvisita. Fysisk lager av dekk, drev, personlig utstyr, rustninger for enduro/motocross. [mcsenteret.no](https://mcsenteret.no/) |
-| **Runes Scooter & MC** | Nettbasert / regionen | Rimelig og rask. Reparasjoner «mens du venter», brukte originaldeler fra utrangerte kjøretøy, oljeskift, slitedeler. [runes-scooter-mc.com](https://runes-scooter-mc.com/) |
-
----
-
-## 17. Eierfellesskap og forum
-
-| Ressurs | URL / Info |
-|---------|-----------|
-| Derbi Senda Owners' Club | Facebook – søk «Derbi Senda Owners Club» |
-| Aprilia Forum (Derbi-seksjoner) | https://www.apriliaforum.com/ |
-| Bikez.com – Senda R 2004 | https://bikez.com/motorcycles/derbi_senda_r_x-treme_2004.php |
-| Autoevolution – Derbi Senda historikk | https://www.autoevolution.com/moto/derbi/senda/ |
-| Wikipedia – Derbi Senda | https://en.wikipedia.org/wiki/Derbi_Senda |
-
----
-
-## 18. Rask referansekort
+## 13. Rask referansekort
 
 ```
 DERBI SENDA R 50 – 2004 (EBS-motor)
@@ -660,31 +507,6 @@ Moment:         Plugg 18 Nm, Sylinderhode 12 Nm, Hjulaksel 60 Nm
 
 ---
 
-## 19. Kilder
-
-1. Derbi Senda – Wikipedia: https://en.wikipedia.org/wiki/Derbi_Senda
-2. 2004 Derbi Senda R Racer – Ultimate Specs: https://www.ultimatespecs.com/motorcycles-specs/derbi/derbi-senda-r-racer-2004
-3. Derbi offisiell: https://www.derbi.com/en_EN/
-4. Derbi Day – Iceni CAM Magazine: https://www.icenicam.org.uk/articlesb/art0185.php
-5. DERBI Models – autoevolution: https://www.autoevolution.com/moto/derbi/
-6. DERBI Senda All Models – autoevolution: https://www.autoevolution.com/moto/derbi/senda/
-7. 50cc.eu – Derbi parts: https://www.50cc.eu/en/parts_2.asp?Hg=All&M=derbi
-8. EasyParts – Exploded views: https://www.easyparts.com/explodedviews/Genuine-parts-Derbi-Senda-R-50-2T-X-Race-E2-2004-(EMEA)-m1671
-9. Motorparts – EBE050 instruksjoner: https://www.motorparts.it/documenti/pdf_libretti/ISTRUZIONI_9931640.pdf
-10. Motorparts – Port timing data: https://www.motorparts.it/documenti/pdf_libretti/ISTRUZIONI_9927100.pdf
-11. Aprilia Forum – 70cc ytelse: https://www.apriliaforum.com/forums/showthread.php?382360-Derbi-Senda-70cc-Performance-Issues
-12. Derbi 125 4T Engine Technical Manual – Scribd: https://www.scribd.com/doc/129446337/Derbi-Technical-Training-2010-125-4T-4V
-13. Gearbox Oil capacity – Aprilia Forum: https://www.apriliaforum.com/forums/showthread.php?193692-Gearbox-Oil-capacity
-14. AUTODOC – Derbi Senda antifrost: https://moto.autodoc.co.uk/parts/motorcycle-antifreeze-43175/derbi-motorcycles/senda
-15. Aprilia Forum – Cutting out past 3/4 throttle: https://www.apriliaforum.com/forums/showthread.php?356273
-16. Reddit r/supermoto – Derbi senda hard to start: https://www.reddit.com/r/supermoto/comments/1eih68m/derbi_senda_hard_to_start/
-17. NGK Spark Plugs for Derbi Senda: https://www.ngkntk.com/part-finder/motorcycles-scooter/spark-plugs/derbi/senda-50-r-b9es-1-50-1995/
-18. Derbi Senda Service Manual DRD – Scribd: https://www.scribd.com/doc/59179403/Derbi-Senda-Service-Manual-DRD-Model
-19. Senda DRD Racing workshop manual – Scribd: https://www.scribd.com/document/786054674/867267-Senda-DRD-Racing-En
-20. Derbi official manuals portal: https://manuals.derbi.com/
-
----
-
-*Dokumentet er sammenstilt fra offentlige registreringsdata (Statens vegvesen), teknisk dokumentasjon fra Derbi/Nacional Motor/Piaggio, og informasjon fra autoevolution.com, bikez.com, Wikipedia, Aprilia Forum, Reddit og pedparts.co.uk.*
+> Manualer, leverandører, verksteder, forum og kilder: se [hovedsiden](../README.md).
 
 *Sist oppdatert: April 2026*

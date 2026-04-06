@@ -20,62 +20,20 @@
 7. [Transmisjon og drivverk](#7-transmisjon-og-drivverk)
 8. [Chassis, hjuloppheng og bremser](#8-chassis-hjuloppheng-og-bremser)
 9. [Elektrisk system og CDI-diagnostikk](#9-elektrisk-system-og-cdi-diagnostikk)
-10. [Norsk L1e-begrensning](#10-norsk-l1e-begrensning)
-11. [Vedlikehold – service og intervaller](#11-vedlikehold--service-og-intervaller)
-12. [Diagnostikk og feilsøking](#12-diagnostikk-og-feilsøking)
-13. [Tuning (kun til informasjon)](#13-tuning-kun-til-informasjon)
-14. [Manualer og dokumentasjon](#14-manualer-og-dokumentasjon)
-15. [Reservedeler – leverandører](#15-reservedeler--leverandører)
-16. [Verksteder og regional infrastruktur (Agder)](#16-verksteder-og-regional-infrastruktur-agder)
-17. [Eierfellesskap og forum](#17-eierfellesskap-og-forum)
-18. [Rask referansekort](#18-rask-referansekort)
-19. [Kilder](#19-kilder)
+10. [Vedlikehold – service og intervaller](#10-vedlikehold--service-og-intervaller)
+11. [Diagnostikk og feilsøking](#11-diagnostikk-og-feilsøking)
+12. [Tuning (kun til informasjon)](#12-tuning-kun-til-informasjon)
+13. [Rask referansekort](#13-rask-referansekort)
+
+> Felles informasjon om merkehistorie, Senda-plattformen, L1e-regler, manualer, leverandører, verksteder og forum: se [hovedsiden](../README.md).
 
 ---
 
 ## 1. Merke- og modellhistorie
 
-### Derbi – fra sykkelverksted til Piaggio
+> For fullstendig Derbi-historie og Senda-plattformbeskrivelse, se [hovedsiden](../README.md).
 
-Derbi-navnet er et akronym fra den spanske frasen *«DERivados de BIcicleta»* (derivater av sykler). Selskapet ble grunnlagt i **1922** av Simeó Rabasa i Singla som et sykkelverksted i Mollet del Vallès nær Barcelona. Fabrikken ble flyttet til sin permanente adresse i **Martorelles** i 1931. Det første motoriserte kjøretøyet, **Derbi SRS** (oppkalt etter grunnleggerens initialer), kom i 1949 som en 48cc velomotor med 1,5 HK.
-
-Selskapet ble formelt omdøpt til **Nacional Motor S.A.** den 7. november 1950, men Derbi-merkenavnet fortsatte på alle produkter. Gjennom 1960- og 1970-tallet bygget Derbi en formidabel racing-arv og vant **21 verdensmesterskap** på tvers av 50cc, 80cc og 125cc Grand Prix-klassene. Legendariske Ángel Nieto leverte merkets første titler i 1969–1972, mens Jorge Martínez «Aspar» dominerte 80cc-klassen fra 1986–1989. Den siste verdensmestertittelen kom i 2010, da Marc Márquez vant 125cc-mesterskapet på en Derbi.
-
-**Piaggio kjøpte Derbi i 2001**, med formell overføring av 100 % av Nacional Motor-aksjene fullført 23. oktober 2003 for **€34,99 millioner**. Derbi ble integrert sammen med Vespa, Gilera og Aprilia. Martorelles-fabrikken fortsatte produksjonen til **22. mars 2013**, da den siste Derbien noensinne — passende nok en Senda DRD 50cc — rullet av linjen med rammen signert av de gjenværende ~150 ansatte.
-
-| År | Hendelse |
-|----|----------|
-| 1922 | Simeó Rabasa i Singla grunnlegger sykkelverksted i Mollet del Vallès |
-| 1931 | Fabrikken flyttes til Martorelles |
-| 1944 | Registrerer «Bicicletas Rabasa» for formell sykkelproduksjon |
-| 1949 | Første motoriserte kjøretøy: SRS-mopeden (48cc, 1,5 HK) |
-| 1950 | Omdøpes til Nacional Motor S.A.; merkenavnet DERBI lanseres |
-| 1969–1972 | Ángel Nieto vinner 50cc VM-tittelen tre ganger |
-| 1986–1989 | Jorge Martínez «Aspar» dominerer 80cc-klassen fire sesonger |
-| 1993 | Senda-modellen lanseres for første gang |
-| 1995 | EBE/EBS-motoren introduseres i Senda 50 med væskekjøling og 6-trinns girkasse |
-| 2000 | Stål perimeterramme introduseres |
-| 2001 | Piaggio Group kjøper Derbi; SM-varianten lanseres |
-| 2005 | **Din sykkel produseres** – siste primære produksjonsår med EBS050-motor |
-| 2006 | D50B0/D50B1-motoren erstatter EBS i nye modeller (Euro 3) |
-| 2010 | Marc Márquez vinner 125cc VM – Derbis siste verdensmestertittel |
-| 2013 | Martorelles-fabrikken stenges; siste Derbi bygges 22. mars |
-
-### Senda-plattformen og X-Trems plass
-
-Derbi Senda 50 ble lansert i **1993** og mottok sin definerende moderne redesign i **1995** med væskekjølt motor, 6-trinns girkasse, skivebremser og monoshock bakdemper. Serien ble utviklet gjennom 22 generasjoner frem til 2023.
-
-Senda selges i to grunnvarianter:
-- **SM** – Supermotard med 17-tommers veihjul, kortere fjæring, asfalttilpasset
-- **R** – Enduro/trail med høye hjul (21"/18"), lang fjæringsreise
-
-I 2005 hadde Derbi utvidet Senda til et fullt hierarki:
-- **X-Treme** — basisnivå, Ø37mm konvensjonell gaffel, 260mm frontskive, stålramme
-- **X-Race** — mellomnivå, Ø36mm hydraulisk gaffel, forbedret demping
-- **DRD Racing** — Ø41mm Paioli-gaffel, aluminium svingarm, racing-orientert
-- **DRD Pro** — toppspek, aluminium perimeterramme, Ø40mm Marzocchi invertert gaffel, 300mm frontskive
-
-Senda-plattformen deles direkte med **Gilera SMT 50** og **Gilera RCR 50** – identisk konstruksjon med mange felles komponenter.
+Din sykkel er fra **2005** – det siste primære produksjonsåret med EBS050-motoren før Piaggio faset inn D50B0 (Euro 3) for modellåret 2006. Den representerer høydepunktet av den opprinnelige motorgenerasjonen.
 
 ### Konkurrenter i 2005
 
@@ -504,23 +462,7 @@ Den definitive kilden er Nacional Motor Derbi Euro 2 Workshop Manual:
 
 ---
 
-## 10. Norsk L1e-begrensning
-
-Sykkelen er registrert som moped klasse L1e med topphastighet **45 km/t**. Fem restriktive elementer:
-
-| Begrensningspunkt | Metode |
-|-------------------|--------|
-| CDI | Begrenset til ~9400 RPM |
-| Luftfilter | «Strangle»-baffle i innsugsmanifold |
-| Forgasser | Redusert hoveddyse (62 i stedet for 85) |
-| Eksosrør | Restriktor-baffler i ekspansjonskammer |
-| Fremre tannhjul | Redusert fra 14T til 11–13T |
-
-For lovlig norsk bruk som L1e-moped skal alle begrensningene være intakte.
-
----
-
-## 11. Vedlikehold – service og intervaller
+## 10. Vedlikehold – service og intervaller
 
 ### Offisielle serviceintervaller
 
@@ -566,7 +508,7 @@ For lovlig norsk bruk som L1e-moped skal alle begrensningene være intakte.
 
 ---
 
-## 12. Diagnostikk og feilsøking
+## 11. Diagnostikk og feilsøking
 
 ### De ti vanligste problemene
 
@@ -648,7 +590,7 @@ Ekstremt vanlig etter alt kjølevæskearbeid i det lille ~1,1 L systemet. Luft g
 
 ---
 
-## 13. Tuning (kun til informasjon)
+## 12. Tuning (kun til informasjon)
 
 > ⚠️ **Vegtrafikkloven § 13 forbyr modifikasjoner som øker hastighet/ytelse utover L1e-grenser.**
 >
