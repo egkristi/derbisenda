@@ -216,7 +216,7 @@ Mange eiere deaktiverer oljepumpen og forhåndsblander bensin og olje:
 
 Bruk blyfri 95 eller 98 oktan.
 
-> ⚠️ Dersom du er usikker på om oljepumpen fungerer på en 21 år gammel sykkel – inspiser den grundig eller bytt til forhåndsblanding. En tørr 2-takt ødelegges raskt.
+> ⚠️ Mange eiere deaktiverer oljepumpen fordi det lille nylondrevet som driver pumpen kan splintres ved høye turtall – et havari uten forvarsel. Dersom du er usikker på om oljepumpen fungerer på en 21 år gammel sykkel – inspiser den grundig eller bytt til forhåndsblanding. En tørr 2-takt ødelegges raskt.
 
 ### Girolje (separat!)
 
@@ -247,6 +247,8 @@ Systemet består av frontmontert radiator, slanger, vannpumpe og vannkappe integ
 ---
 
 ## 6. Forgasser – Dell'Orto PHVA 17,5
+
+Standardforgasseren er Dell'Orto PHVA 17,5 mm. I visse markeder eller årganger ble også Keihin benyttet.
 
 ### Spesifikasjoner
 
