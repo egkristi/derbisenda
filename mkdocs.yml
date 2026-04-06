@@ -1,0 +1,78 @@
+site_name: Derbi Senda – Dokumentasjon
+site_description: Teknisk dokumentasjon for Derbi Senda 50cc mopeder (EBS/EBE)
+site_url: https://egkristi.github.io/derbisenda/
+repo_url: https://github.com/egkristi/derbisenda
+repo_name: egkristi/derbisenda
+
+docs_dir: .
+
+theme:
+  name: material
+  language: "no"
+  palette:
+    - scheme: default
+      primary: deep orange
+      accent: orange
+      toggle:
+        icon: material/brightness-7
+        name: Bytt til mørk modus
+    - scheme: slate
+      primary: deep orange
+      accent: orange
+      toggle:
+        icon: material/brightness-4
+        name: Bytt til lys modus
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+
+plugins:
+  - search:
+      lang: "no"
+  - exclude:
+      glob:
+        - .github/*
+        - LICENSE
+        - mkdocs.yml
+        - "*.gitkeep"
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Hjem: README.md
+  - Modeller:
+      - Senda R 2004 (NL 3874): models/senda-r-2004/README.md
+      - Senda SM X-Trem 2005 (AU 7933): models/senda-sm-xtrem-2005/README.md
+  - Motor:
+      - EBS050 / EBE050: engines/ebs050.md
+  - Forgasser:
+      - Dell'Orto PHVA 17,5: carburetors/dellorto-phva.md
+  - Koblingsskjema:
+      - Euro 2: wiring/euro2.md
+      - Fargekodetabell: wiring/color-codes.md
+  - Vedlikehold:
+      - Vedlikeholdsplan: maintenance/schedule.md
+      - Momentspesifikasjoner: maintenance/torque-specs.md
+      - Væskeoversikt: maintenance/fluids.md
+  - Feilsøking:
+      - Ingen gnist: troubleshooting/no-spark.md
+      - Starter ikke: troubleshooting/no-start.md
+      - Overoppheting: troubleshooting/overheating.md
+  - Deler:
+      - Kompatibilitet: parts/compatibility.md
+      - Leverandører: parts/oem-links.md
+  - Manualer: manuals/README.md
