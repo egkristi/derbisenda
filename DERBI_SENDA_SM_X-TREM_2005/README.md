@@ -286,14 +286,14 @@ Systemet består av frontmontert radiator, slanger, vannpumpe (mekanisk drevet f
 
 ### Spesifikasjoner
 
-Forgassertype: **Dell'Orto PHVA 17,5mm ID** (Dell'Orto delenr. 06342), med 24mm manifold-tilkobling og 35mm luftfilter-tilkobling.
+Forgassertype: **Dell'Orto PHVA 17,5mm ID** (Dell'Orto delenr. 06342), med 24mm manifold-tilkobling og 35mm luftfilter-tilkobling. I noen markeder ble PHVA 14mm levert som restriktert variant.
 
 | Parameter | Restriktet (L1e) | Urestriktert |
 |-----------|-------------------|--------------|
 | Hoveddyse (main jet) | 62 (noen markeder: 70–75) | 85 |
 | Tomgangsdyse (idle jet) | 30 (noen markeder: 34) | 30 |
 | Choke-dyse | 50 | 50 |
-| Nåltype | A25 | A25 |
+| Nåltype | A25 (noen markeder: A13) | A25 |
 | Nålposisjon | 3. hakk (midten) | 2. hakk |
 | Diffuser/venturi | 208 GA | 208 GA |
 | Luftskrue | 1,5–2 svinger ut | 1,5–2 svinger ut |
@@ -393,7 +393,7 @@ Dobbel vuggeramme (perimeterramme) av høyfast, sveiset stål. Massivt overdimen
 |-----------|------------------------|--------------------------|
 | Frontgaffel | Hydraulisk teleskop, Ø37mm (Paioli/Marzocchi/Showa) | Hydraulisk teleskop, Ø37mm |
 | Fjæringsvei foran | 170–180 mm | 190 mm |
-| Bakdemper | Monoshock (gass, lineær) aluminium svingarm | Monoshock stålsvingarm |
+| Bakdemper | Monoshock (gass, lineær) stålsvingarm | Monoshock stålsvingarm |
 | Fjæringsvei bak | ~182–200 mm | ~180 mm |
 
 Den reduserte fjæringsveien foran (vs. R-versjonen) senker tyngdepunktet, reduserer «nosedive» under bremsing og skjerper styreresponsen for asfaltbruk.
@@ -688,6 +688,7 @@ Ekstremt vanlig etter alt kjølevæskearbeid i det lille ~1,1 L systemet. Luft g
 | Arrow | All-Road | ~€180–250 |
 | LeoVince | V6 / X-Fight | ~€150–200 |
 | Turbokit | Diverse | ~€165–210 |
+| Voca Racing | Racing / Cross | ~€150–250 |
 
 #### Sylindersett for EBE/EBS-motor
 
@@ -714,6 +715,13 @@ For 70cc sylindersett: hoveddyse ~#90–95.
 
 - Interne rotor-tenningssett (MVT, Italkit, HPI) — fjerner tung ekstern svinghjul for lettere vekt og høyere turtall (kun racing)
 - Sport-klutsjsett fra Stage6 og Malossi
+- Forsterkede veivaksler (Doppler ER1, Naraku Performance) for 15 000+ RPM ved store sylinderkit
+
+### Stunt-giring
+
+For akselerasjon og stunting benyttes kortere utveksling:
+- **11/53** – eksplosiv bunndrag, moderat toppfart
+- **12/58** – ekstrem moment-utnyttelse for lav hastighet / wheelies
 
 ### Den gylne regelen for 2-takts tuning
 
