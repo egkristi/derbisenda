@@ -57,7 +57,7 @@ I 1950 ble selskapet omstrukturert til **Nacional Motor Rabasa S.A.** og det iko
 | 1988 | Grunnleggerne Rabasa og Singla dør; selskapet forblir uavhengig |
 | 1993 | Senda-modellen lanseres for første gang |
 | 1995 | EBE/EBS-motoren introduseres i Senda 50 |
-| 2000 | Ny aluminiumsramme (bjelkeramme) introduseres |
+| 2000 | Ny stål perimeterramme (twin-spar) introduseres |
 | 2001 | Piaggio Group kjøper Derbi |
 | 2004 | **Din sykkel produseres** – Euro 2-sertifisert |
 | 2005 | D50B0/D50B1-motoren erstatter EBS i nye modeller |
