@@ -290,8 +290,8 @@ Forgassertype: **Dell'Orto PHVA 17,5mm ID** (Dell'Orto delenr. 06342), med 24mm 
 
 | Parameter | Restriktet (L1e) | Urestriktert |
 |-----------|-------------------|--------------|
-| Hoveddyse (main jet) | 62 | 85 |
-| Tomgangsdyse (idle jet) | 30 | 30 |
+| Hoveddyse (main jet) | 62 (noen markeder: 70–75) | 85 |
+| Tomgangsdyse (idle jet) | 30 (noen markeder: 34) | 30 |
 | Choke-dyse | 50 | 50 |
 | Nåltype | A25 | A25 |
 | Nålposisjon | 3. hakk (midten) | 2. hakk |
