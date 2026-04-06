@@ -496,16 +496,7 @@ Den definitive kilden er Nacional Motor Derbi Euro 2 Workshop Manual:
 - [ ] Test lys, horn og blinklys
 - [ ] Sjekk eksospakning
 
-### Vinterlagring (nedlegging)
-
-- [ ] Fyll tanken helt (hindrer korrosjon og kondens)
-- [ ] Tilsett drivstoffstabilisator og kjør motoren 5 min for sirkulasjon
-- [ ] Bytt girkasseolje (forurenset olje = syre over vinteren)
-- [ ] Tøm forgasseren (steng bensinkranen, la motoren gå til den dør)
-- [ ] Spray WD-40 / korrosjonsbeskyttelse på ubehandlet metall
-- [ ] Koble fra batteriet. Vedlikeholdslad 1× per måned
-- [ ] Still sykkelen på sentralstativ eller blokker – avlast dekkene
-- [ ] Dekk med et pustvennlig trekk (ikke plast – kondens)
+> Vinterlagring/nedlegging: se [vedlikeholdsplan](../../maintenance/schedule.md#vinterlagring).
 
 ### Væskeoversikt
 
