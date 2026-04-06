@@ -324,38 +324,91 @@ Ingen ABS. Bremsesystemet er overdimensjonert for et kjøretøy med 45 km/t topp
 
 ## 9. Elektrisk system
 
+### Todelt arkitektur
+
+Det elektriske systemet er todelt:
+- **Tenningskrets (CDI)** – totalt uavhengig av resten; motoren starter og går selv uten batteri
+- **Lys/ladekrets** – mater lys og lader batteri via regulator/likeretter
+
+### Nøkkelkomponenter
+
 | Komponent | Spesifikasjon |
 |-----------|--------------|
+| Stator | Magnetoalternator |
 | Generator/rotor | 85W / 120W |
-| Tenning | CDI (kondensatorutladningstenning) |
+| CDI-enhet | AC CDI, Ducati/Kokusan. OEM: **8212474** / **11.20632 800** / **00H03330171** |
 | Batteri | 12V (typisk 5–7 Ah YTX5L-BS eller tilsvarende) |
 | Tennplugg | NGK BR9ES (standard) / BR8ES (varmere, bykjøring) / BR9EIX (iridium-oppgradering) |
 | Elektrodegap | 0,6 mm |
 | Pluggmål | Gjengediameter 14,0 mm, gjengelengde 19,0 mm, 20,8 mm nøkkelvidde |
 
+### AC CDI – hvordan det fungerer
+
+Statorspolens høyspente vekselstrøm lader kondensatoren i CDI-boksen. Når pick-up-spolen registrerer at svinghjulets metallflik passerer, åpner en SCR (Silicon Controlled Rectifier) som dumper energien til tennspolen. Tennspolen mangedobler spenningen til over 20 000V.
+
+Maskinen stanses ved at tenningslås/dødmannsknapp jorder CDI-ens høyspenningskabel.
+
+> **Viktig:** Systemet er totalt uavhengig av batteri og regulator. Motoren starter og går uten disse.
+
 ### Tenningssystem – signalvei
 
 ```
-Stator → CDI → Coil → Tennplugg
-Kill switch → CDI
-Regulator → Lys
+Stator → CDI → Tennspole → Tennplugg
+Kill switch → CDI (jorder for å stoppe)
+Regulator → Lys/lading
 ```
 
 ### Stator-diagnostikk (multimeter)
 
-| Komponent | Ledning | Normal motstand | Merknad |
-|-----------|---------|-----------------|---------|
-| HT-plugghette | – | 3,7–5,0 kΩ | Undertrykker RFI. 0 Ω eller ∞ = defekt |
-| Pick-up spole | Rød → CDI | 80–90 Ω | Timer-sensor for tenning |
-| Forsyningsspole (source coil) | Grønn → CDI | ~670 Ω | Lader kondensatoren i CDI. ~0,7 Ω eller ∞ = brent stator |
+| Kretskomponent | Ledningsfarge | Måles mot | Normal motstand |
+|----------------|---------------|-----------|-----------------|
+| Høyspennings ladespole (CDI) | Grønn | Jord | ~670 Ω (±10%) |
+| Pick-up / trigger-spole | Rød | Jord | 80–90 Ω (±10%) |
+| AC/DC ladekrets (lys/batteri) | Gul | Jord | ~0,7 Ω (±10%) |
+| Hovedjording / kill-switch | Gul/grønn eller hvit | Chassis | Kontinuitet (0 Ω) |
+| Sekundær høyspenningscoil | Pluggkabel | Tennplugghette | 3,7–5,0 kΩ (±15%) |
+| Støydempet tennplugghette | Hetten i seg selv | Gjennomgang | ~5 kΩ (±15%) |
+
+Avvik fra disse verdiene: ∞ = ledningsbrudd, ~0 Ω = kortslutning.
+
+### Spenningsregulator – servicebulletin PV 05-10
+
+Derbi utstedte oppdatering som erstattet original regulator:
+- **Original:** delenr. 00H01004841 (lys blå kontakt)
+- **Oppdatert:** delenr. 864660 (gul kontakt)
+
+> ⚠️ Feil wattasje på frontlyspære kan blåse statoren.
+
+### Ledningsskjema
+
+Den definitive kilden er Nacional Motor Derbi Euro 2 Workshop Manual:
+- **Side 72 – SM X-Treme WVTA koblingsskjema:** https://www.manualslib.com/manual/1619038/Nacional-Motor-Derbi-Euro-2.html?page=72
+- **Side 59 – Batterilading og regulator:** https://www.manualslib.com/manual/1619038/Nacional-Motor-Derbi-Euro-2.html?page=59
+- **50factory.com visuell ledningsguide med bilder:** https://en.50factory.com/content/244-changing-his-electric-beam-on-derbi-senda-and-gilera-smt-RCR
+
+> Koblingsskjemaene gjelder hele Senda-plattformen (SM og R deler identisk elektrisk arkitektur).
+
+### Fargekodetabell (viktigste)
+
+| Tilkobling | Ledningsfarger |
+|------------|---------------|
+| Generell jord | Gul/grønn |
+| Vifte + radiator temp.sensor | Gul/grønn + hvit + mørk grønn |
+| Forgasservarmer-probe | Lys grå + mørk grå |
+| Topplokk temp.sensor | 2× mørk gul |
+| Oljenivå-probe | Gul/grønn + blå/svart |
+| Bensinnivå-probe | Gul/grønn + blå/hvit |
+| Baklys | Gul/grønn (jord) + gul (stopp) + grønn (posisjon) |
+| Spenningsregulator | Rød + oransje + gul + gul/grønn + svart/rød + gul/rød |
 
 ### Vanlige elektriske problemer
 
 | Symptom | Sannsynlig årsak | Tiltak |
 |---------|-----------------|--------|
 | Frontlys demmes ved gasspådrag | Svak/defekt laderegulator, svakt batteri | Sjekk og bytt regulator |
-| Ingen gnist | CDI-feil | Bytt CDI-boks |
+| Ingen gnist | CDI-feil, stator | Koble fra stopptast, mål stator, bytt CDI |
 | Startvansker / uforklarlig stopp | Stopptast kortslutter | Koble fra og test |
+| Batteri lader ikke | Regulatorfeil | Sjekk/bytt regulator (se PV 05-10) |
 
 ---
 
@@ -404,6 +457,17 @@ Regulator → Lys
 - [ ] Sjekk alle kabler (gass, clutch, bremse) for strekk og friksjon
 - [ ] Test lys, horn og blinklys
 - [ ] Sjekk eksospakning (vanlig lekkasje på eldre modeller)
+
+### Vinterlagring (nedlegging)
+
+- [ ] Fyll tanken helt (hindrer korrosjon og kondens)
+- [ ] Tilsett drivstoffstabilisator og kjør motoren 5 min for sirkulasjon
+- [ ] Bytt girkasseolje (forurenset olje = syre over vinteren)
+- [ ] Tøm forgasseren (steng bensinkranen, la motoren gå til den dør)
+- [ ] Spray WD-40 / korrosjonsbeskyttelse på ubehandlet metall
+- [ ] Koble fra batteriet. Vedlikeholdslad 1× per måned
+- [ ] Still sykkelen på sentralstativ eller blokker – avlast dekkene
+- [ ] Dekk med et pustvennlig trekk (ikke plast – kondens)
 
 ### Tenningsinnstilling
 
