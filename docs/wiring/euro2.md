@@ -72,6 +72,19 @@ Derbi utstedte oppdatering som erstattet original regulator:
 
 ---
 
+## OEM eksploderte diagrammer – elektrisk
+
+Interaktive diagrammer med delenumre (ekstern, copyright OEM):
+
+| System | Modell | Lenke |
+|--------|--------|-------|
+| Elektrisk system (komplett) | R X-Race E2 2004 | [motorcyclespareparts.eu](https://www.motorcyclespareparts.eu/en/derbi-parts/2004-senda-50-r-x-race-e2-motorcycles/electrical-system) |
+| CDI / magneto | SM X-Race 50 E2 | [oemmotorparts.com](https://www.oemmotorparts.com/en/model/derbi/senda-50-sm-x-race-50-cc-euro2/2004/drawing/cdi-magneto-assy) |
+| Electrical System | SM X-Race 50 E2 | [oemmotorparts.com](https://www.oemmotorparts.com/en/model/derbi/senda-50-sm-x-race-50-cc-euro2/2004/drawing/electrical-system) |
+| Ledningsnett (wiring harness) | SM Euro2 125cc | [oemmotorparts.com](https://www.oemmotorparts.com/en/model/derbi/senda-sm-euro2-125-cc/2004/drawing/wiring-harness) |
+
+---
+
 ## Modellspesifikke elektriske detaljer
 
 - [Senda R 2004 – Elektrisk system](../models/senda-r-2004/README.md#9-elektrisk-system)

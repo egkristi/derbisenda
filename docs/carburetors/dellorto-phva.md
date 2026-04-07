@@ -85,6 +85,30 @@ Gjør en «plug chop»: kjør i 3/4–full gass i ~30 sekunder, drep motoren med
 | Dell'Orto offisiell tuning-manual (PDF) | https://www.dellorto.it/wp-content/uploads/2020/12/dellorto_manual.pdf |
 | Dell'Orto PHBN/PHVA eksplodert diagram + deler | https://www.dellortoshop.com/contents/en-us/d22_Dellorto-PHBN-and-PHVA-Carburetor-Parts-Shop.html |
 | Dell'Orto tuning guide (Ducati Meccanica) | https://www.ducatimeccanica.com/dellorto_guide/dellorto_3_4.html |
+| Dell'Orto flottørnivå-tabell (PDF) | https://www.dellorto.co.uk/wp-content/uploads/2019/07/floatlevel.pdf |
+| Dell'Orto Motorcycle Carburetor Tuning Guide (Scribd) | https://www.scribd.com/document/55146322/Dellorto-Motorcycle-Carburetor-Tuning-Guide |
+
+## OEM eksplodert forgasserdiagram
+
+| Modell | Lenke |
+|--------|-------|
+| SM X-Race 50 E2 – Carburettor | [oemmotorparts.com](https://www.oemmotorparts.com/en/model/derbi/senda-50-sm-x-race-50-cc-euro2/2004/drawing/carburettor) |
+| R X-Race E2 2004 – Carburettor | [motorcyclespareparts.eu](https://www.motorcyclespareparts.eu/en/derbi-parts/2004-senda-50-r-x-race-e2-motorcycles/carburettor) |
+
+### Flottørnivå – Dell'Orto PHVA
+
+Flottørnivået kontrollerer bensinnivået i forgasserkammeret og påvirker blanding ved alle gassposisjoner.
+
+**Måleprosedyre:**
+1. Demonter forgasserens bunnkar
+2. Hold forgasseren opp ned (topplokket ned) slik at flottøren hviler på nålventilen uten å presse fjæren
+3. Mål avstanden fra flottørens høyeste punkt til forgasserkroppens tetningsflate
+4. Typisk mål: **18 ± 0,5 mm** (verifiser mot Dell'Orto flottørtabell)
+5. Juster ved å bøye metallfliken som hviler mot nålventilen forsiktig
+
+**Symptomer ved feil flottørnivå:**
+- For høyt (for mye bensin): Motor renner over, svart tennplugg, bensinlukt
+- For lavt (for lite bensin): Mager blanding ved gass, nøling, overoppheting
 
 ---
 
