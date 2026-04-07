@@ -4,6 +4,35 @@ Standardforgasseren på alle EBS/EBE-drevne Derbi Senda (1995–2005) er **Dell'
 
 ---
 
+## Montering og slangetilkoblinger
+
+### Mekanisk innfesting
+
+Forgasseren har en **24 mm hann-stuss** som presses inn i den fleksible innsugsgummien (manifolden) på motoren og strammes med en slangeklemme. På luftfiltersiden kobles gummislangen fra luftfilterboksen på en **35 mm stuss**.
+
+### Gasswire og stempel (slide assembly)
+
+1. Tre gasswiren gjennom topplokket, deretter gjennom returfjæren
+2. Pass på at den flate siden av fjæren vender riktig vei
+3. Trekk fjæren tilbake slik at wirenippelen kan festes ned i gass-stempelet
+4. Nålen holdes av en liten låseplate – tappen på platen må treffe nøyaktig i sporet for å låse wiren
+5. Sett topplokket på plass – utskjæringen (sporet) sikrer at det bare kan monteres i én retning
+
+### Slangetilkoblinger
+
+| Stuss | Beskrivelse | Kobles til |
+|-------|-------------|------------|
+| **Bensintilførsel** | Tykkeste stussen, vertikal | Slange fra bensinkran under tanken |
+| **Vakuumslange** | Horisontal stuss | Automatisk bensinkran – åpner for bensin når motoren skaper undertrykk |
+| **Oljepumpe** | Tynn messingnippel på siden | Slange fra motorens oljepumpe (autolube) |
+| **Forgasservarme** | To stusser, ofte med U-formet slangebit | Kan kobles til kjølesystem på sylinderhodet for å forhindre ising |
+
+> ⚠️ **Oljepumpe-nippelen er kritisk.** Hvis denne ikke kobles til, får motoren ingen smøring og vil raskt skjære seg. Kjører du med oljeblanding rett i tanken, må nippelen tettes helt for å unngå falsk luft.
+
+> Forgasservarmestussene kan blendes med en kort slangebit (loop) dersom de ikke kobles til kjølesystemet.
+
+---
+
 ## Jetting per modell
 
 | Parameter | Senda R 2004 (restriktet) | Senda R 2004 (ubegrenset) | Senda SM 2005 (restriktet) | Senda SM 2005 (ubegrenset) |

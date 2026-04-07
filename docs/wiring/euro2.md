@@ -6,6 +6,8 @@ Det elektriske systemet på EBS/EBE-motoren er todelt:
 - **Tenningskrets (CDI)** – totalt uavhengig av resten; motoren starter og går selv uten batteri
 - **Lys/ladekrets** – mater lys og lader batteri via regulator/likeretter
 
+Hovedlykten drives typisk av **vekselstrøm (AC)** direkte fra statoren via regulatoren, mens blinklys, horn og instrumentbelysning drives av **likestrøm (DC)** fra batteriet.
+
 ## Nøkkelkomponenter
 
 | Komponent | Spesifikasjon |
