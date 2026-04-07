@@ -122,7 +122,7 @@ R-varianten skiller seg fra SM-varianten gjennom:
 | Komponent | Moment |
 |-----------|--------|
 | Tennplugg | 18 Nm |
-| Sylinderhode | 12 Nm |
+| Sylinderhode | 19–22 Nm |
 | Hjulaksel | 60 Nm |
 
 ---
@@ -557,7 +557,7 @@ Dekk bak:       110/80-18
 Lufttrykk:      ~1,2/1,5 bar (f/b offroad)
 Bremser:        Hydraulisk skive f+b (DOT 4)
 Batteri:        12V 5–7 Ah (YTX5L-BS)
-Moment:         Plugg 18 Nm, Sylinderhode 12 Nm, Hjulaksel 60 Nm
+Moment:         Plugg 18 Nm, Sylinderhode 19–22 Nm, Hjulaksel 60 Nm
 ```
 
 ---

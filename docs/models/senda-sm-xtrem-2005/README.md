@@ -152,7 +152,7 @@ Ring endegap: **0,15–0,35 mm**. Maks sylinderdeformasjon: **0,05 mm**. Pilen p
 |-------|--------|
 | Topplokk-muttere (M7) | 19–22 |
 | Topplokk dekselskruer (M6) | 8–10 |
-| Tennplugg | 20–40 |
+| Tennplugg | 18 |
 | Magneto til veivaksel (M10) | 35–45 |
 | Motor-drev til veivaksel (M10) | 35–45 |
 | Klutsjhus (M12) | 35–45 |
@@ -699,7 +699,7 @@ Bremser:        Hydraulisk skive f+b (DOT 4)
                 Foran 260mm 2-stempel, Bak 220mm
 Batteri:        12V 4Ah SLA
 Sikring:        4A
-Moment:         Topplokk 19–22 Nm, Plugg 20–40 Nm
+Moment:         Topplokk 19–22 Nm, Plugg 18 Nm
                 Hjulaksel 80 Nm, Oljetapp 15–18 Nm
 Termostat:      Åpner 60°C, Vifte 97°C
 ```

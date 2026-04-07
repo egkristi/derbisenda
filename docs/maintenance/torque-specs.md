@@ -4,9 +4,9 @@
 
 | Feste | Senda R 2004 | Senda SM X-Trem 2005 |
 |-------|-------------|---------------------|
-| Topplokk-muttere (M7) | 12 Nm | 19–22 Nm |
+| Topplokk-muttere (M7) | 19–22 Nm | 19–22 Nm |
 | Topplokk dekselskruer (M6) | – | 8–10 Nm |
-| Tennplugg | 18 Nm | 20–40 Nm |
+| Tennplugg | 18 Nm | 18 Nm |
 | Magneto til veivaksel (M10) | – | 35–45 Nm |
 | Motor-drev til veivaksel (M10) | – | 35–45 Nm |
 | Klutsjhus (M12) | – | 35–45 Nm |
@@ -19,6 +19,7 @@
 | Hjulaksel | 60 Nm | 80 Nm |
 
 > SM 2005-verdiene er hentet direkte fra verkstedmanualen. R 2004-verdiene er fra registerdata/eierdokumentasjon.
+> Hjulaksel-moment varierer mellom modellene på grunn av ulike hjulstørrelser (R: 21"/18" vs. SM: 17"/17").
 
 ## Modellspesifikke momenttabeller
 
