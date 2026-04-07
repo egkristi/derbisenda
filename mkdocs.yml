@@ -65,6 +65,7 @@ nav:
       - EBS050 / EBE050: engines/ebs050.md
   - Forgasser:
       - Dell'Orto PHVA 17,5: carburetors/dellorto-phva.md
+      - Komplett justeringsguide: carburetors/tuning-guide.md
   - Koblingsskjema:
       - Euro 2: wiring/euro2.md
       - Fargekodetabell: wiring/color-codes.md

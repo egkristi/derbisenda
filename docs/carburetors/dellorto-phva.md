@@ -114,5 +114,6 @@ Flottørnivået kontrollerer bensinnivået i forgasserkammeret og påvirker blan
 
 ## Modellspesifikke forgasserdetaljer
 
+- [Komplett justeringsguide (demontasje, rengjøring, jetting, plug chop)](tuning-guide.md)
 - [Senda R 2004 – Forgasser](../models/senda-r-2004/README.md#6-forgasser--dellorto-phva-175)
 - [Senda SM X-Trem 2005 – Forgasser](../models/senda-sm-xtrem-2005/README.md#6-forgasser--dellorto-phva-175)
