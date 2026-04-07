@@ -60,20 +60,20 @@ Full feilsøking: [Starter ikke](troubleshooting/no-start.md)
 ## 4. Grunnleggende vedlikehold
 
 ### Hver 500 km
-- Rens luftfilter
-- Sjekk kjede (20–30 mm slakk)
-- Sjekk bremser
+- [ ] Rens luftfilter
+- [ ] Sjekk kjede (20–30 mm slakk)
+- [ ] Sjekk bremser
 
 ### Hver 2000 km
-- Bytt tennplugg
-- Rens forgasser
-- Sjekk kjølevæskenivå
+- [ ] Bytt tennplugg
+- [ ] Rens forgasser
+- [ ] Sjekk kjølevæskenivå
 
 ### Årlig / sesongstart
-- Bytt girolje
-- Sjekk kjølevæske
-- Smør kabler og kjede
-- Sjekk bremsevæske
+- [ ] Bytt girolje
+- [ ] Sjekk kjølevæske
+- [ ] Smør kabler og kjede
+- [ ] Sjekk bremsevæske
 
 Full plan: [Vedlikeholdsplan](maintenance/schedule.md)
 

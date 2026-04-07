@@ -2,6 +2,8 @@
 
 Alle vesentlige endringer i dette dokumentasjonsprosjektet.
 
+> Sist oppdatert: 2026-04-07
+
 ---
 
 ## 2026-04-07
