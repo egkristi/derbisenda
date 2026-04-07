@@ -83,6 +83,7 @@ AU 7933:  V T H S R 2 B 1 A 5 H 281277
 |------|-----|
 | Ingen gnist | [troubleshooting/no-spark.md](troubleshooting/no-spark.md) |
 | Starter ikke | [troubleshooting/no-start.md](troubleshooting/no-start.md) |
+| Dør på gass / går dårlig | [troubleshooting/poor-running.md](troubleshooting/poor-running.md) |
 | Overoppheting | [troubleshooting/overheating.md](troubleshooting/overheating.md) |
 
 ### Deler og manualer

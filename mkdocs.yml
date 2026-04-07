@@ -72,6 +72,7 @@ nav:
   - Feilsøking:
       - Ingen gnist: troubleshooting/no-spark.md
       - Starter ikke: troubleshooting/no-start.md
+      - Dør på gass / går dårlig: troubleshooting/poor-running.md
       - Overoppheting: troubleshooting/overheating.md
   - Deler:
       - Kompatibilitet: parts/compatibility.md

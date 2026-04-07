@@ -41,5 +41,6 @@ En motor trenger: **drivstoff, gnist, kompresjon.** Gnist er bekreftet – sjekk
 
 ## Se også
 
+- [Feilsøking: Dør på gass / går dårlig](poor-running.md)
 - [Feilsøking: Overoppheting](overheating.md)
 - [Forgasser – Dell'Orto PHVA](../carburetors/dellorto-phva.md)

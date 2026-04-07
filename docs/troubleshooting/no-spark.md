@@ -34,5 +34,6 @@ Motoren snurrer på kickstart, men tennpluggen gir ingen gnist. Kontroll: ta ut 
 
 ## Se også
 
+- [Feilsøking: Dør på gass / går dårlig](poor-running.md)
 - [Koblingsskjema – Euro 2](../wiring/euro2.md)
 - [Fargekodetabell](../wiring/color-codes.md)

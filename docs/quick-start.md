@@ -52,8 +52,8 @@ Full feilsøking: [Starter ikke](troubleshooting/no-start.md)
 |---|---|---|
 | Starter ikke | Tennplugg, forgasser, bensin | [Starter ikke](troubleshooting/no-start.md) |
 | Ingen gnist | CDI, stator, kill-switch | [Ingen gnist](troubleshooting/no-spark.md) |
+| Dør på gass / hakker | Forgasser, luftlekkasje, nål/dyse | [Dør på gass](troubleshooting/poor-running.md) |
 | Overoppheting | Kjølevæske, termostat, vannpumpe | [Overoppheting](troubleshooting/overheating.md) |
-| Går dårlig / hakker | Skitten forgasser, luftlekkasje | [Forgasser](carburetors/dellorto-phva.md) |
 
 ---
 
