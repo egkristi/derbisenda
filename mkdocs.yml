@@ -33,6 +33,9 @@ theme:
 plugins:
   - search:
       lang: "nb"
+  - git-revision-date-localized:
+      enable_creation_date: true
+      locale: nb
   - exclude:
       glob:
         - .github/*

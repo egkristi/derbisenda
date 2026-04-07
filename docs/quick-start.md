@@ -29,7 +29,7 @@ Før du kjører — gå gjennom disse punktene:
 |---|---|---|
 | Kjølevæske | Ekspansjonsbeholder på rammen | 50/50 G12/G13 + destillert vann |
 | 2-taktsolje | Oljebeholder (om oljepumpe brukes) | JASO FD syntetisk |
-| Girolje | Nivåskrue på motorblokkens høyre side | 10W-40 eller 75W90 GL-4, 650–750 ml |
+| Girolje | Nivåskrue på motorblokkens høyre side | 10W-40 eller 75W90 GL-4, 650 ml |
 | Bremsevæske | Beholderen på styrehåndtaket | DOT 4 |
 
 Detaljer: [Væskeoversikt](maintenance/fluids.md)
@@ -65,7 +65,7 @@ Full feilsøking: [Starter ikke](troubleshooting/no-start.md)
 - [ ] Sjekk bremser
 
 ### Hver 2000 km
-- [ ] Bytt tennplugg
+- [ ] Sjekk tennplugg (bytt ved behov, senest hvert 6000 km)
 - [ ] Rens forgasser
 - [ ] Sjekk kjølevæskenivå
 

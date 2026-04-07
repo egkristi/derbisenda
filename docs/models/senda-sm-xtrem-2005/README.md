@@ -128,7 +128,7 @@ SM (Supermotard)-varianten skiller seg fra R (Enduro) gjennom:
 | Brennstoffsystem | Forgasser Dell'Orto PHVA 17,5 mm |
 | Tenning | CDI – Ducati/Kokusan (AC CDI) |
 | Generator | Magnetoalternator, 12V / 65W |
-| Tennplugg | NGK B8ES (restriktet) / NGK BR9ES (alternativ) |
+| Tennplugg | NGK BR9ES (standard) / NGK BR8ES (varmere, bykjøring) |
 | Elektrodegap | 0,6–0,7 mm |
 | Start | Kun kickstart |
 | Tankvolum | 7,0–7,45 liter |
@@ -684,7 +684,7 @@ Motor:          49,76cc, 2-takt, væskekjølt
 Motorkode:      EBE050 (Euro 2)
 Boring/slag:    39,88 × 40 mm
 Kompresjon:     11,5:1
-Tennplugg:      NGK B8ES / BR9ES, gap 0,6 mm
+Tennplugg:      NGK BR9ES / BR8ES, gap 0,6 mm
 Forgasser:      Dell'Orto PHVA 17,5 mm (delenr. 06342)
 Hoveddyse:      85 (ubegrenset) / 62 (begrenset)
 Tenning:        AC CDI Ducati/Kokusan

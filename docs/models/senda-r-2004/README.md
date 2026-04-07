@@ -104,7 +104,7 @@ R-varianten skiller seg fra SM-varianten gjennom:
 | Boring | 39,88 mm |
 | Slag | 40,0 mm |
 | Motorgeometri | Tilnærmet kvadratisk (boring ≈ slag) |
-| Kompresjonsforhold | Geometrisk 13,8:1 / Effektiv 7,9:1 |
+| Kompresjonsforhold | 11,5:1 (noen kilder oppgir opp til 13,0:1) |
 | Klemspalte (squish clearance) | 0,9 mm |
 | Distribusjonsdiagram | Eksosport: 186° / Spyleporter: 126° / Blowdown: 60° |
 | Induksjon | Reed-ventil (4-blad) |
@@ -139,7 +139,7 @@ Begge er funksjonelt identiske for praktiske formål. EBS er den vanligste beteg
 
 ### Motorkarakter og termodynamikk
 
-Den nesten perfekt kvadratiske geometrien (boring 39,88 mm / slag 40,0 mm) gir en balanse mellom brukbart dreiemoment i mellomregisteret og kapasitet for høye stempelhastigheter. Det geometriske kompresjonsforholdet på 13,8:1 forklarer den responsive gassresponsen, men stiller absolutte krav til drivstoffkvalitet – minimum 95 oktan, 98 oktan anbefales sterkt. Avvik risikerer detonasjon («tenningsbank»).
+Den nesten perfekt kvadratiske geometrien (boring 39,88 mm / slag 40,0 mm) gir en balanse mellom brukbart dreiemoment i mellomregisteret og kapasitet for høye stempelhastigheter. Kompresjonsforholdet på 11,5:1 (noen kilder oppgir opp til 13,0:1) er høyt for en masseprodusert 50cc-motor, men muliggjøres av det overlegne væskekjølesystemet. Minimum 95 oktan, 98 oktan anbefales sterkt. Avvik risikerer detonasjon («tenningsbank»).
 
 Klemspalten på 0,9 mm skaper ekstrem turbulens som sikrer homogen forbrenning. Feil tykkelse på sylinderfotpakning (f.eks. 1,5 mm) vil ødelegge denne effekten dramatisk.
 
@@ -179,7 +179,7 @@ Bruk blyfri 95 eller 98 oktan.
 
 Girkassen er adskilt fra motoren og trenger **egen olje**:
 - **Type:** 10W-30 / 10W-40 motorolje, eller 75W90/80W90 GL-4 girolje
-- **Volum:** 650–750 ml (EBS050/EBE050)
+- **Volum:** 650 ml (EBS050/EBE050)
 - Påfyllingsplugg og avtappingsplugg finnes på venstre side av motoren
 
 **Bytteprosedyre:**
@@ -435,7 +435,7 @@ Den definitive kilden er Nacional Motor Derbi Euro 2 Workshop Manual:
 ### Hver 2000 km
 
 - Rens forgasser
-- Bytt tennplugg
+- Sjekk tennplugg (bytt ved behov, senest hvert 6000 km)
 - Sjekk kjølevæskenivå
 
 ### Hver 5000 km
@@ -543,12 +543,12 @@ Reg.nr:         NL 3874
 VIN:            VTHSR1B1A4H248026
 Motor:          49,93cc, 2-takt, væskekjølt
 Boring/slag:    39,88 × 40 mm
-Kompresjon:     13,8:1 (geometrisk)
+Kompresjon:     11,5:1
 Tennplugg:      NGK BR9ES, gap 0,6 mm
 Forgasser:      Dell'Orto PHVA 17,5 mm
 Hoveddyse:      85 (ubegrenset) / 74 (begrenset)
 Tenntidspunkt:  CDI-styrt
-Girolje:        10W-40 eller 75W90 GL-4, 650–750 ml
+Girolje:        10W-40 eller 75W90 GL-4, 650 ml
 Kjølevæske:     G12/G13 50/50 m/ dest. vann, ~1,0 liter
 Oljeblanding:   1:50 (forhåndsblanding) eller oljepumpe
 Kjede:          420, 14T/52T
