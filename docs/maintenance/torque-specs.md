@@ -21,6 +21,11 @@
 > SM 2005-verdiene er hentet direkte fra verkstedmanualen. R 2004-verdiene er fra registerdata/eierdokumentasjon.
 > Hjulaksel-moment varierer mellom modellene på grunn av ulike hjulstørrelser (R: 21"/18" vs. SM: 17"/17").
 
+### Komplett momenttabell fra verkstedmanualen
+
+![Torque Settings Table – fra Derbi Euro 2 Workshop Manual](../images/workshop_manual/torque-settings.png){ width="600" }
+*Offisiell momenttabell med gjengespesifikasjoner og Loctite-krav. Kilde: Nacional Motor Derbi Euro 2 Workshop Manual, s. 19*
+
 ## Modellspesifikke momenttabeller
 
 - [Senda R 2004 – Momentspesifikasjoner](../models/senda-r-2004/README.md#momentspesifikasjoner)

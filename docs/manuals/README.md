@@ -18,7 +18,7 @@
 
 | Manual | Lenke |
 |--------|-------|
-| Dell'Orto Tuning Manual (PDF, lokal kopi) | [dellorto_manual.pdf](../pdf/dellorto_manual.pdf) |
+| Dell'Orto Tuning Manual (PDF, lokal kopi) | `pdf/dellorto_manual.pdf` (i repository-roten) |
 | Dell'Orto Tuning Manual (offisiell) | https://www.dellorto.it/wp-content/uploads/2020/12/dellorto_manual.pdf |
 
 Alle illustrasjoner fra Dell'Orto-manualen er hentet ut og brukt i [forgasserdokumentasjonen](../carburetors/dellorto-phva.md) og [justeringsguiden](../carburetors/tuning-guide.md).

@@ -15,6 +15,20 @@ Motoren snurrer på kickstart, men tennpluggen gir ingen gnist. Kontroll: ta ut 
 | Defekt plugghette | Mål: skal gi ~5 kΩ. 0 Ω eller ∞ = defekt | Bytt plugghette (NGK) |
 | Korrodert kontakt / ledningsbrudd | Visuell inspeksjon, kontinuitetstest | Rens/reparer |
 
+## Stator-diagnostikk (fra verkstedmanualen)
+
+<figure markdown="span">
+  ![Magneto/stator demontasje](../images/workshop_manual/magneto-stripping.png){ width="280" }
+  ![Lysspole-sjekk](../images/workshop_manual/magneto-lighting-coil.png){ width="280" }
+  <figcaption>Demontasje av magnetoalternator og sjekk av lysspolen. Kilde: Derbi Euro 2 Workshop Manual</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Ladespole og pick-up-sjekk](../images/workshop_manual/magneto-supply-pickup.png){ width="280" }
+  ![Hall-sensor-sjekk](../images/workshop_manual/magneto-hall-sensor.png){ width="280" }
+  <figcaption>Sjekk av ladespole/pick-up-spole (venstre) og Hall-sensor-test (høyre).</figcaption>
+</figure>
+
 ## Diagnostikkflyt
 
 ```
@@ -37,3 +51,4 @@ Motoren snurrer på kickstart, men tennpluggen gir ingen gnist. Kontroll: ta ut 
 - [Feilsøking: Dør på gass / går dårlig](poor-running.md)
 - [Koblingsskjema – Euro 2](../wiring/euro2.md)
 - [Fargekodetabell](../wiring/color-codes.md)
+- [Batteriladesystem – diagram](../images/workshop_manual/battery-charging-diagram.png)

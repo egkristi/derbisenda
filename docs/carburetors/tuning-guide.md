@@ -139,6 +139,18 @@ Ingen av disse systemene er helt isolert – endringer i ett system påvirker na
 
 > ⚠️ Steng alltid bensinkranen (til «OFF» eller «PRI» for tømmming) før du begynner.
 
+<figure markdown="span">
+  ![Forgasser demontasje](../images/workshop_manual/carburettor-stripping.png){ width="280" }
+  ![Flottør og nålventil](../images/workshop_manual/carburettor-float-needle.png){ width="280" }
+  <figcaption>Forgasser demontasje og inspeksjon av flottør/nålventil. Kilde: Derbi Euro 2 Workshop Manual</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Nål og gassspjeld](../images/workshop_manual/carburettor-needle-slide.png){ width="280" }
+  ![Gasswire og luftfilter](../images/workshop_manual/carburettor-throttle-airfilter.png){ width="280" }
+  <figcaption>Inspeksjon av konisk nål/gassspjeld (venstre) og gasswire/luftfilter-tilkobling (høyre).</figcaption>
+</figure>
+
 ### 3.1 Frigjør luftfiltersiden
 
 1. Løsne slangeklemmen som holder luftfilterboksen mot forgasserens 35 mm-stuss.

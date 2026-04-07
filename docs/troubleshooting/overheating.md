@@ -31,6 +31,12 @@ flowchart LR
 
 ## Vannpumpe-reparasjon (simringer)
 
+<figure markdown="span">
+  ![Kjølesystem – vannpumpe](../images/workshop_manual/cooling-system-water-pump.png){ width="280" }
+  ![Vannpumpe tetningssett](../images/workshop_manual/water-pump-seal-assembly.png){ width="280" }
+  <figcaption>Vannpumpe demontasje (venstre) og tetningssett-montering (høyre). Kilde: Derbi Euro 2 Workshop Manual</figcaption>
+</figure>
+
 Et «weep hole» i vannpumpehuset varsler om ytre simringsvikt. De to simringene (10×24×6 mm) monteres **asymmetrisk**:
 
 1. Indre simring bankes inn **forbi drenshullet** (forsegler girolje-siden)

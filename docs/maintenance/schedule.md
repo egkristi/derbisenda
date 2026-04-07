@@ -2,6 +2,9 @@
 
 ## Offisielle serviceintervaller
 
+![Vedlikeholdsplan fra verkstedmanualen](../images/workshop_manual/maintenance-schedule.png){ width="600" }
+*Offisiell vedlikeholdsplan fra Nacional Motor Derbi Euro 2 Workshop Manual, s. 18*
+
 | Intervall | Vedlikehold |
 |-----------|------------|
 | **1000 km / 2 mnd** (første service) | Girkasseolje-bytte, forgasserkontroll, generell inspeksjon |

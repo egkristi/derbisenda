@@ -56,6 +56,9 @@ flowchart TB
 
 ## Stator-diagnostikk (multimeter)
 
+![Termostat og PTC-kontroll](../images/workshop_manual/thermostat-ptc-control.png){ width="450" }
+*Termostat PTC-kontroll og forgasservarmer-sjekk. Kilde: Derbi Euro 2 Workshop Manual, s. 32*
+
 | Kretskomponent | Ledningsfarge | Måles mot | Normal motstand |
 |----------------|---------------|-----------|-----------------|
 | Høyspennings ladespole (CDI) | Grønn | Jord | 670–820 Ω (±10%) |
@@ -78,6 +81,33 @@ Derbi utstedte oppdatering som erstattet original regulator:
 > ⚠️ Feil wattasje på frontlyspære kan blåse statoren.
 
 ## Offisielle koblingsskjemaer
+
+### Koblingsskjemaer fra verkstedmanualen (uthentet fra PDF)
+
+<figure markdown="span">
+  ![Senda R X-Treme WVTA](../images/workshop_manual/wiring-senda-r-xtreme-wvta.png){ width="500" }
+  <figcaption>Koblingsskjema – Senda R X-Treme WVTA. Kilde: Derbi Euro 2 Workshop Manual, s. 72</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Senda SM X-Treme WVTA](../images/workshop_manual/wiring-senda-sm-xtreme-wvta.png){ width="500" }
+  <figcaption>Koblingsskjema – Senda SM X-Treme WVTA. Kilde: Derbi Euro 2 Workshop Manual, s. 75</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Batteriladesystem](../images/workshop_manual/battery-charging-diagram.png){ width="500" }
+  <figcaption>Batteriladesystem – diagram med regulator/likeretter. Kilde: Derbi Euro 2 Workshop Manual, s. 62</figcaption>
+</figure>
+
+??? note "Alle modellvarianter"
+    | Modell | Bilde |
+    |--------|-------|
+    | Senda R DRD | ![R DRD](../images/workshop_manual/wiring-senda-r-drd.png){ width="400" } |
+    | Senda R X-Treme USA | ![R X-Treme USA](../images/workshop_manual/wiring-senda-r-xtreme-usa.png){ width="400" } |
+    | Senda SM DRD | ![SM DRD](../images/workshop_manual/wiring-senda-sm-drd.png){ width="400" } |
+    | Senda SM X-Treme USA | ![SM X-Treme USA](../images/workshop_manual/wiring-senda-sm-xtreme-usa.png){ width="400" } |
+
+### Eksterne lenker
 
 | Kilde | Lenke |
 |-------|-------|

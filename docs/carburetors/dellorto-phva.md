@@ -120,6 +120,9 @@ Flottørnivået kontrollerer bensinnivået i forgasserkammeret og påvirker blan
 ![Flottørnivåmåling](../images/dellorto_output/p05-float-level-measurement-diagram.png){ width="400" }
 *Korrekt måleprosedyre for flottørnivå. Mål avstand A fra tetflate til flottørens høyeste punkt.*
 
+![Dell'Orto flottørnivåtabell – alle modeller](../images/dellorto-float-level-table.png){ width="500" }
+*Komplett flottørnivåtabell for alle Dell'Orto-modeller. PHVA: ikke oppført direkte, bruk 18 ± 0,5 mm. Kilde: Dell'Orto Float Level PDF*
+
 **Måleprosedyre:**
 1. Demonter forgasserens bunnkar
 2. Hold forgasseren opp ned (topplokket ned) slik at flottøren hviler på nålventilen uten å presse fjæren

@@ -26,3 +26,11 @@
 - **Blanding:** 50/50 med destillert vann (beskyttelse ned til ~-37°C)
 
 > ⚠️ Silikater i eldre kjølevæsketyper sliter ned vannpumpetetningen og kan forårsake kavitasjon.
+
+## Oljepumpe – service og lufting
+
+<figure markdown="span">
+  ![Oljepumpe demontasje](../images/workshop_manual/oil-pump-stripping.png){ width="280" }
+  ![Oljepumpe montering og lufting](../images/workshop_manual/oil-pump-assembly-bleed.png){ width="280" }
+  <figcaption>Oljepumpe demontasje (venstre) og montering med lufteprosedyre (høyre). Kilde: Derbi Euro 2 Workshop Manual</figcaption>
+</figure>
