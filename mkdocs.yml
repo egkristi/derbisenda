@@ -54,6 +54,7 @@ markdown_extensions:
 
 nav:
   - Hjem: README.md
+  - Kom i gang: quick-start.md
   - Modeller:
       - Senda R 2004 (NL 3874): models/senda-r-2004/README.md
       - Senda SM X-Trem 2005 (AU 7933): models/senda-sm-xtrem-2005/README.md

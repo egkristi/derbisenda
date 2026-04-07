@@ -2,6 +2,8 @@
 
 Samlet teknisk dokumentasjon, vedlikeholdsguider og eierinformasjon for Derbi Senda 50cc mopeder (L1e).
 
+> **Ny eier?** Start her → [Kom i gang](quick-start.md)
+
 ---
 
 ## Mine kjøretøy
