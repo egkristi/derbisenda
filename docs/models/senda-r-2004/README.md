@@ -207,6 +207,12 @@ Systemet består av frontmontert radiator, slanger, vannpumpe og vannkappe integ
 
 Standardforgasseren er Dell'Orto PHVA 17,5 mm. I visse markeder eller årganger ble også Keihin benyttet.
 
+<figure markdown="span">
+  ![Dell'Orto PHVA – front](../../images/dellorto_output/p12-PHVA-carb-front-view.png){ width="250" }
+  ![Dell'Orto PHVA – bakside](../../images/dellorto_output/p12-PHVA-carb-rear-view.png){ width="250" }
+  <figcaption>Dell'Orto PHVA 17,5 mm. <em>Kilde: Dell'Orto Tuning Manual</em></figcaption>
+</figure>
+
 ### Spesifikasjoner
 
 | Parameter | Fabrikk (urestriktert) | Begrenset (L1e) |

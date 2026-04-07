@@ -3,6 +3,20 @@
 ## Symptom
 Temperaturvarsel lyser, motor mister kraft, kjølevæske koker over, eller melkeaktig girolje.
 
+## Kjølesystemet – oversikt
+
+```mermaid
+flowchart LR
+    R["Radiator\n(frontmontert)"] -->|Nedre slange| VP["Vannpumpe\n(mekanisk)"]
+    VP -->|Trykkside| VK["Vannkappe\n(sylinder + topplokk)"]
+    VK -->|Øvre slange| T{"Termostat\n60°C"}
+    T -->|Åpen| R
+    T -->|Stengt| VK
+    VK -.->|Temp > 97°C| V["Vifte\n(elektrisk)"]
+    V -.-> R
+    R --- EB["Ekspansjonsbeholder"]
+```
+
 ## Årsaker og løsninger
 
 | Årsak | Diagnose | Løsning |

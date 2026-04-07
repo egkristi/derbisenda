@@ -82,7 +82,22 @@ Gass-stempelet beveger seg vertikalt i forgasserkroppen styrt av gasswiren. Når
 | Mellomregister | 1/4–3/4 gass | Nålposisjon (klipshakk) |
 | Fullgass-system | 3/4–full gass | Hoveddyse |
 
+![Stempeltype – rund stempel-slide](../images/dellorto_output/p07-round-piston-throttle-carb.png){ width="350" }
+*PHVA er en «piston-slide»-forgasser med rundt gass-stempel som beveger seg vertikalt. Stempelets posisjon bestemmer luftstrømmen gjennom venturien.*
+
+![Gassspjeldavfasing – anrikning ved lavåpning](../images/dellorto_output/p11-valve-chamfer-low-enriches.png){ width="350" }
+*Avfasingen på gass-stempelets underkant påvirker blandingen i overgangssonen. Avfasingen skaper en kontrollert luftstrøm over progresjonshullene ved lav stempelåpning.*
+
+![Starterkrets – tverrsnitt](../images/dellorto_output/p26-VHSB-starter-circuit-section-diagram.png){ width="400" }
+*Starterkretsen (choke) har sin egen separate drivstoff- og luftbane med startdyse. På EBS/EBE brukes enten manuell eller automatisk choke.*
+
 Ingen av disse systemene er helt isolert – endringer i ett system påvirker naboregionene. Juster alltid ett punkt om gangen og prøvekjør mellom hver endring.
+
+![Komplett tverrsnitt av forgasser med alle kretser](../images/dellorto_output/p04-VHSB-full-section-with-circuits.png){ width="500" }
+*Komplett tverrsnitt som viser alle forgasserkretser: flottørkammer, tomgangskrets, hovedkrets og startanrikning. Kilde: Dell'Orto Tuning Manual*
+
+![Kalibreringselementer – eksplodert visning](../images/dellorto_output/p20-calibration-elements-exploded-ABCDEFG.png){ width="500" }
+*Kalibreringselementene i en Dell'Orto-forgasser: (A) Hoveddyse, (B) Nålejett/atomiser, (C) Konisk nål, (D) Gass-stempel, (E) Tomgangsdyse, (F) Luftskrue, (G) Startdyse. Disse komponentene styrer blandingsforholdet ved ulike gassposisjoner.*
 
 ---
 
@@ -138,6 +153,12 @@ Ingen av disse systemene er helt isolert – endringer i ett system påvirker na
 5. Frigjør wirenippelen fra stempelet ved å vinkle stempelet slik at nippelen kan glide ut av sporet.
 6. Legg stempel/fjær/nål trygt til side – ikke mist klipset fra nålen.
 
+<figure markdown="span">
+  ![Fjærenhet og gassspjeld](../images/dellorto_output/p11-valve-spring-assembly-VHSD.png){ width="250" }
+  ![Gass-stempel innside](../images/dellorto_output/p15-cylindrical-valve-inside-view.png){ width="250" }
+  <figcaption>Venstre: Fjærenhet og gassspjeld demontert. Høyre: Innside av sylindrisk gass-stempel med nål-spor og wirefeste.</figcaption>
+</figure>
+
 ### 3.3 Koble fra choke-wire (hvis manuell choke)
 
 Løsne låsemutteren på choke-wiren og koble den fri fra choke-spaken på forgasserkroppen.
@@ -185,6 +206,12 @@ Spray forgasserrens på utsiden og tørk av med klut. Fjern alle synlige avleiri
 3. Nålventilen (1,5 mm messing-nål med gummispiss) faller gjerne ut med flottøren – legg den trygt til side.
 4. Sjekk flottørene: vei dem. Maks vekt **3,5 gram** per flottørkropp. Tyngre betyr at det har trengt inn bensin → kast og bytt. Bøy flottørarmene lett for å se om de er deformerte.
 
+![Flottørkammer – tverrsnitt med nålventil](../images/dellorto_output/p04-float-feed-circuit-section.png){ width="380" }
+*Tverrsnitt av flottørkammeret: Flottøren (1) styrer nålventilen (2) som regulerer drivstofftilførselen fra bensinslangen. Når nivået stiger, løfter flottøren nålventilen og stopper tilførselen.*
+
+![Ringformet flottør – alternativ konstruksjon](../images/dellorto_output/p05-annular-float-section-diagram.png){ width="350" }
+*Ringformet (annulær) flottørdesign brukt på noen Dell'Orto-modeller. PHVA bruker dobbel flottør med sentral nålventil.*
+
 ### 4.4 Demonter dyser
 
 | Dyse | Plassering | Verktøy |
@@ -195,6 +222,13 @@ Spray forgasserrens på utsiden og tørk av med klut. Fjern alle synlige avleiri
 
 > Skru ut dysene forsiktig og legg dem i rekkefølge. Blås gjennom hvert hull med trykkluft og hold dem opp mot lyset – et rent hull er et jevnt lysende punkt, et blokkert hull er ujevnt eller mørkt.
 
+<figure markdown="span">
+  ![Hoveddyse og flottørkammer](../images/dellorto_output/p21-main-jet-baffle-float-chamber.png){ width="300" }
+  ![Tomgangsdyse i emulsjonstube](../images/dellorto_output/p15-idle-jet-in-emulsion-tube.png){ width="220" }
+  ![Tomgangsdyse eksternt montert](../images/dellorto_output/p15-idle-jet-external-mount.png){ width="220" }
+  <figcaption>Venstre: Hoveddyse med baffel i flottørkammer. Midten og høyre: Tomgangsdyse i emulsjonstube og eksternt montert.</figcaption>
+</figure>
+
 ### 4.5 Luftskrue
 
 Luftskruen sitter dypt inne i forgasserkroppen og er beskyttet av en liten gummiplugg (på mange Euro 2-modeller). 
@@ -204,6 +238,12 @@ Luftskruen sitter dypt inne i forgasserkroppen og er beskyttet av en liten gummi
 3. Skru den helt inn (forsiktig – ikke stram) og skru den ut igjen med ditt noterte antall.
 
 > Ikke skru luftskruen hardt inn – gummispissen deformeres og tetner ikke lenger korrekt.
+
+<figure markdown="span">
+  ![Forgasser med luftskrue](../images/dellorto_output/p18-carb-with-air-adjustment-screw.png){ width="250" }
+  ![Forgasser med blandingsskrue](../images/dellorto_output/p18-carb-with-mixture-adjustment-screw.png){ width="250" }
+  <figcaption>Luftskrue (venstre) sitter på luftfiltersiden og regulerer luft inn i tomgangskretsen. Blandingsskrue (høyre) sitter på motorsiden – PHVA bruker luftskrue.</figcaption>
+</figure>
 
 ### 4.6 Rengjøring av alle kanaler
 
@@ -242,6 +282,15 @@ Luftskruen sitter på motorsiden av forgasserkroppen og regulerer mengden luft s
 - **Skru ut (mot klokken):** Magrere blanding (mer luft)
 - Typisk innstilling: **1,5–2,5 omdreininger ut** fra lett innskrudd
 
+![Luftskrue – tverrsnitt](../images/dellorto_output/p17-VHSB-idle-air-screw-section.png){ width="450" }
+*Tverrsnitt som viser luftskruens posisjon i forgasserkroppen og hvordan den regulerer lufttilførselen til tomgangskretsen.*
+
+<figure markdown="span">
+  ![Luft- vs. blandingsskrue – forskjeller](../images/dellorto_output/p17-air-screws-vs-mixture-screws.png){ width="280" }
+  ![Luftskrue-tips vs. blandingsskrue-tips](../images/dellorto_output/p19-air-vs-mixture-screw-tips.png){ width="250" }
+  <figcaption>Forskjellen mellom luftskrue (venstre) og blandingsskrue (høyre). PHVA bruker luftskrue på motorsiden.</figcaption>
+</figure>
+
 ### 5.2 Tomgangsskrue (gasskabelskrue)
 
 Kontrollerer gass-stempelets minimale åpning og dermed tomgangs-RPM. Dette er *ikke* en blandings-skrue – den styrer bare turtallet.
@@ -272,6 +321,15 @@ Spiss (nederst)
 - **Klips ned (mot spissen):** Nålen heves i jettet → slipper gjennom mer drivstoff → **rikere** i mellomregisteret
 - Aktiv sone: **1/4 til 3/4 gass**
 
+![Konisk nål og atomiser](../images/dellorto_output/p21-conical-needle-and-atomizer.png){ width="400" }
+*Konisk nål i nålejettet (atomiser). Når stempelet heves, heves nålen og frigjorde tverrsnittsåpningen for drivstoff øker gradvis. Klipsposisjonen bestemmer nålens basisposisjon.*
+
+<figure markdown="span">
+  ![2-takt atomiser – varianter](../images/dellorto_output/p23-2stroke-atomizer-nozzle-variations.png){ width="280" }
+  ![Atomiser steg-konfigurasjoner](../images/dellorto_output/p23-atomizer-step-configurations.png){ width="220" }
+  <figcaption>2-takt atomiser/nålejett-varianter (venstre) og steg-konfigurasjoner (høyre). Nålejettets indre profil påvirker drivstoffleveransen i mellomregisteret.</figcaption>
+</figure>
+
 ### 5.4 Hoveddyse
 
 Messingdyse med en kalibrert boreåpning. Dysenummeret er diameteren i hundredels millimeter – dyse 85 = Ø 0,85 mm.
@@ -280,9 +338,21 @@ Messingdyse med en kalibrert boreåpning. Dysenummeret er diameteren i hundredel
 - **Mindre dysenummer:** Magrere blanding ved fullgass
 - Aktiv sone: **3/4 til full gass**
 
+![Hovedkrets ved fullt gass](../images/dellorto_output/p04-main-circuit-WOT-section-diagram.png){ width="350" }
+*Hovedkretsen ved fullt gass (WOT). Drivstoff trekkes gjennom hoveddysen og atomiseres i nålejettet til venturistrømmen.*
+
 ### 5.5 Tomgangsdyse (pilot jet)
 
 Styrer blandingen ved tomgang. På EBS/EBE med PHVA 17,5 er fabrikkstandard 30 og denne sjelden behøver endring med mindre motoren er vesentlig modifisert.
+
+![Tomgangskrets – oversikt](../images/dellorto_output/p13-PH-carb-idle-circuit-overview.png){ width="400" }
+*Oversikt over tomgangskretsen: drivstoff trekkes gjennom tomgangsdysen, blandes med luft fra luftskruen, og leveres via progresjonshullene under gass-stempelet.*
+
+![Tomgangskrets – tverrsnitt](../images/dellorto_output/p04-idle-circuit-section-diagram.png){ width="350" }
+*Tverrsnitt av tomgangskrets med tomgangsdyse, luftskrue og utgangshull.*
+
+![Progresjonshull – nærbilde](../images/dellorto_output/p14-idle-progression-ports-closeup.png){ width="350" }
+*Nærbilde av progresjonshullene (overgangsportene) under gass-stempelet. Disse hullene gir gradvis økende drivstofftilførsel i overgangssonen (1/8–1/4 gass).*
 
 ### 5.6 Flottørnivå
 
@@ -469,6 +539,9 @@ Flottøren regulerer bensinnivået i forgasserkammeret via nålventilen. Nivået
 2. Hold forgasseren **opp ned** – topplokket skal peke ned.
 3. La flottøren hvile mot nålventilen under **egen tyngde**. Ikke press flottøren ned – nålventilen skal nettopp akkurat lukke.
 4. Mål avstanden fra flottørens høyeste punkt til forgasserkroppens tetningsflate (der O-ringen sitter).
+
+![Flottørnivåmåling – prosedyre](../images/dellorto_output/p05-float-level-measurement-diagram.png){ width="400" }
+*Korrekt måleprosedyre: Hold forgasseren opp ned og mål avstand A fra tetflate til flottørens høyeste punkt. Mål: 18 ± 0,5 mm.*
 
 **Målemål:**
 

@@ -14,6 +14,25 @@
 | Derbi EBE/EBS werkplaatshandboek (nederlandsk forum) | https://www.derbi-forum.nl/download/werkplaatshandboek/DerbiBakHandboek.pdf |
 | MotorcycleManuals.info | https://www.motorcyclemanuals.info/motocycles-atvs/derbi/ |
 
+## Forgassermanual – Dell'Orto
+
+| Manual | Lenke |
+|--------|-------|
+| Dell'Orto Tuning Manual (PDF, lokal kopi) | [dellorto_manual.pdf](../pdf/dellorto_manual.pdf) |
+| Dell'Orto Tuning Manual (offisiell) | https://www.dellorto.it/wp-content/uploads/2020/12/dellorto_manual.pdf |
+
+Alle illustrasjoner fra Dell'Orto-manualen er hentet ut og brukt i [forgasserdokumentasjonen](../carburetors/dellorto-phva.md) og [justeringsguiden](../carburetors/tuning-guide.md).
+
+### Utvalgte sider fra Dell'Orto Tuning Manual
+
+| Side | Innhold |
+|------|---------|
+| ![Side 3](../images/dellorto_output/full-pages/side-03-komponenter-og-kretser.jpg){ width="120" } | **Komponenter og kretser** – Oversikt over alle forgasserkretser |
+| ![Side 13](../images/dellorto_output/full-pages/side-13-sma-forgassere-PHVA.jpg){ width="120" } | **Små forgassere (PHVA)** – PHVA-serien for småsylindrede motorer |
+| ![Side 14](../images/dellorto_output/full-pages/side-14-tomgangskrets-intro.jpg){ width="120" } | **Tomgangskrets** – Introduksjon til tomgangssystemet |
+| ![Side 20](../images/dellorto_output/full-pages/side-20-hovedkrets-intro.jpg){ width="120" } | **Hovedkrets** – Hovedsystemet med hoveddyse, nål og atomiser |
+| ![Side 25](../images/dellorto_output/full-pages/side-25-hoveddyse-og-plugglesing.jpg){ width="120" } | **Hoveddyse og plugglesing** – Hvordan lese tennpluggen (plug chop) |
+
 ## Delekataloger
 
 | Kilde | Lenke |

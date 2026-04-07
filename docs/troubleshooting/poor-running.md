@@ -13,6 +13,13 @@ Forgasseren har **tre kretser** som styrer ulike gassposisjoner. Identifiser hvo
 | ¼ – ¾ gass | Nål og nålposisjon | Nålklips (A13/A25) |
 | ¾ – full gass | Hoveddyse | Main jet |
 
+<figure markdown="span">
+  ![Tomgangskrets](../images/dellorto_output/p04-idle-circuit-section-diagram.png){ width="240" }
+  ![Konisk nål og atomiser](../images/dellorto_output/p21-conical-needle-and-atomizer.png){ width="240" }
+  ![Hovedkrets WOT](../images/dellorto_output/p04-main-circuit-WOT-section-diagram.png){ width="240" }
+  <figcaption>De tre kretsene i Dell'Orto-forgasseren: tomgangskrets (0–¼ gass), nål/mellomregister (¼–¾ gass), og hovedkrets (¾–full gass). <em>Kilde: Dell'Orto Tuning Manual</em></figcaption>
+</figure>
+
 ## Årsaker og løsninger
 
 ### Forgasserrelatert (vanligst)

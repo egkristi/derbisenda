@@ -6,6 +6,25 @@ Motoren har gnist (verifisert), men vil ikke starte eller starter og dør umidde
 ## «Tre ting»-regelen
 En motor trenger: **drivstoff, gnist, kompresjon.** Gnist er bekreftet – sjekk de to andre.
 
+## Bensinsystem – flytdiagram
+
+```mermaid
+flowchart LR
+    T["Bensintank\n7,5 L"] -->|Tyngdekraft| BK{"Bensinkran\n(vakuumstyrt)"}
+    BK -->|Bensinslange| FK["Forgasser\nflottørkammer"]
+    FK -->|Overløpsslange| OV["Overløp\n(ned mot bakken)"]
+    M["Motor\n(undertrykk)"] -.->|Vakuumslange| BK
+    OP["Oljepumpe\n(autolube)"] -->|Tynn slange| FK
+
+    style BK fill:#f96,stroke:#333
+    style FK fill:#69f,stroke:#333
+```
+
+> Bensinkranen er vakuumstyrt – den åpner kun når motoren skaper undertrykk. Ingen undertrykk = ingen bensin = motor starter ikke.
+
+![Drivstoffleveringssystem](../images/dellorto_output/p02-fuel-delivery-diagram-numbered.png){ width="450" }
+*Oversikt over drivstoffleveringssystemet. Drivstoff mates fra tanken via bensinkranen til forgasserens flottørkammer. Kilde: Dell'Orto Tuning Manual*
+
 ## Årsaker og løsninger
 
 | Årsak | Diagnose | Løsning |

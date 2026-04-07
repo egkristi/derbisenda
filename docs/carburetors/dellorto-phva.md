@@ -2,6 +2,15 @@
 
 Standardforgasseren på alle EBS/EBE-drevne Derbi Senda (1995–2005) er **Dell'Orto PHVA 17,5 mm** med 24 mm manifold-tilkobling og 35 mm luftfilter-tilkobling.
 
+<figure markdown="span">
+  ![Dell'Orto PHVA – front](../images/dellorto_output/p12-PHVA-carb-front-view.png){ width="280" }
+  ![Dell'Orto PHVA – bakside](../images/dellorto_output/p12-PHVA-carb-rear-view.png){ width="280" }
+  <figcaption>Dell'Orto PHVA 17,5 mm – front og bakside. <em>Kilde: Dell'Orto Tuning Manual</em></figcaption>
+</figure>
+
+![Dell'Orto PHVA for småmotorer](../images/dellorto_output/p12-PHVA-carbs-small-displacement.png){ width="400" }
+*PHVA-serien er designet for småsylindrede motorer under 125 cc.*
+
 ---
 
 ## Montering og slangetilkoblinger
@@ -30,6 +39,12 @@ Forgasseren har en **24 mm hann-stuss** som presses inn i den fleksible innsugsg
 > ⚠️ **Oljepumpe-nippelen er kritisk.** Hvis denne ikke kobles til, får motoren ingen smøring og vil raskt skjære seg. Kjører du med oljeblanding rett i tanken, må nippelen tettes helt for å unngå falsk luft.
 
 > Forgasservarmestussene kan blendes med en kort slangebit (loop) dersom de ikke kobles til kjølesystemet.
+
+![Drivstoffleveringssystem – oversikt](../images/dellorto_output/p02-fuel-delivery-diagram-numbered.png){ width="500" }
+*Drivstoffleveringssystem med nummererte komponenter. Kilde: Dell'Orto Tuning Manual*
+
+![Fleksibel koblingsstuss](../images/dellorto_output/p06-male-sleeve-flexible-coupling.png){ width="350" }
+*Hann-stuss med fleksibel gummikobling – tilsvarende PHVA 17,5 sin 24 mm manifold-tilkobling.*
 
 ---
 
@@ -90,6 +105,9 @@ Gjør en «plug chop»: kjør i 3/4–full gass i ~30 sekunder, drep motoren med
 
 ## OEM eksplodert forgasserdiagram
 
+![Eksplodert visning PHBN/PHVA](../images/dellorto_phbn_phva_exploded_view_drawing.jpg){ width="500" }
+*Eksplodert visning av Dell'Orto PHBN/PHVA-forgasser med nummererte deler.*
+
 | Modell | Lenke |
 |--------|-------|
 | SM X-Race 50 E2 – Carburettor | [oemmotorparts.com](https://www.oemmotorparts.com/en/model/derbi/senda-50-sm-x-race-50-cc-euro2/2004/drawing/carburettor) |
@@ -99,12 +117,21 @@ Gjør en «plug chop»: kjør i 3/4–full gass i ~30 sekunder, drep motoren med
 
 Flottørnivået kontrollerer bensinnivået i forgasserkammeret og påvirker blanding ved alle gassposisjoner.
 
+![Flottørnivåmåling](../images/dellorto_output/p05-float-level-measurement-diagram.png){ width="400" }
+*Korrekt måleprosedyre for flottørnivå. Mål avstand A fra tetflate til flottørens høyeste punkt.*
+
 **Måleprosedyre:**
 1. Demonter forgasserens bunnkar
 2. Hold forgasseren opp ned (topplokket ned) slik at flottøren hviler på nålventilen uten å presse fjæren
 3. Mål avstanden fra flottørens høyeste punkt til forgasserkroppens tetningsflate
 4. Typisk mål: **18 ± 0,5 mm** (verifiser mot Dell'Orto flottørtabell)
 5. Juster ved å bøye metallfliken som hviler mot nålventilen forsiktig
+
+<figure markdown="span">
+  ![Nålventil i forgasserkropp](../images/dellorto_output/p05-fuel-valve-in-carb-body.png){ width="250" }
+  ![Avtakbar nålventil med fjærbelastet nål](../images/dellorto_output/p05-removable-valve-sprung-needle.png){ width="250" }
+  <figcaption>Nålventil innfelt i forgasserkropp (venstre) og avtakbar variant med fjærbelastet nål (høyre).</figcaption>
+</figure>
 
 **Symptomer ved feil flottørnivå:**
 - For høyt (for mye bensin): Motor renner over, svart tennplugg, bensinlukt

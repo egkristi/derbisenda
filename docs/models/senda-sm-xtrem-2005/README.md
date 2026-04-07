@@ -246,6 +246,12 @@ Systemet består av frontmontert radiator, slanger, vannpumpe (mekanisk drevet f
 
 Forgassertype: **Dell'Orto PHVA 17,5mm ID** (Dell'Orto delenr. 06342), med 24mm manifold-tilkobling og 35mm luftfilter-tilkobling. I noen markeder ble PHVA 14mm levert som restriktert variant.
 
+<figure markdown="span">
+  ![Dell'Orto PHVA – front](../../images/dellorto_output/p12-PHVA-carb-front-view.png){ width="250" }
+  ![Dell'Orto PHVA – bakside](../../images/dellorto_output/p12-PHVA-carb-rear-view.png){ width="250" }
+  <figcaption>Dell'Orto PHVA 17,5 mm. <em>Kilde: Dell'Orto Tuning Manual</em></figcaption>
+</figure>
+
 | Parameter | Restriktet (L1e) | Urestriktert |
 |-----------|-------------------|--------------|
 | Hoveddyse (main jet) | 62 (noen markeder: 70–75) | 85 |

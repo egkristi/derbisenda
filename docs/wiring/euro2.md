@@ -31,11 +31,28 @@ Maskinen stanses ved at tenningslås/dødmannsknapp jorder CDI-ens høyspennings
 
 ## Signalvei
 
+```mermaid
+flowchart TB
+    subgraph Tenning ["Tenningskrets (AC – uavhengig av batteri)"]
+        S1["Ladespole\n(grønn, 670–820 Ω)"] -->|HV AC| CDI["CDI-boks\n(kondensator)"]
+        S2["Pick-up-spole\n(rød, 80–140 Ω)"] -->|Triggersignal| CDI
+        CDI -->|Utladning| TS["Tennspole\n(>20 000V)"]
+        TS --> TP["Tennplugg\nNGK BR9ES"]
+        KS["Kill switch\n(gul/grønn)"] -.->|Jorder| CDI
+    end
+
+    subgraph Lading ["Lys/ladekrets (AC→DC)"]
+        S3["Ladekretsspole\n(gul, 0,7 Ω)"] --> REG["Regulator/\nlikeretter"]
+        REG -->|DC 12V| BAT["Batteri\n12V 4–7 Ah"]
+        BAT --> LYS["Blinklys\nHorn\nInstrumenter"]
+        REG -->|AC| HL["Hovedlys\n(AC direkte)"]
+    end
+
+    style Tenning fill:#1a1a2e,color:#fff
+    style Lading fill:#16213e,color:#fff
 ```
-Stator → CDI → Tennspole → Tennplugg
-Kill switch → CDI (jorder for å stoppe)
-Regulator → Lys/lading
-```
+
+> De to kretsene er totalt uavhengige. Motoren starter og går uten batteri, regulator eller lys.
 
 ## Stator-diagnostikk (multimeter)
 
