@@ -1,0 +1,3 @@
+mkdocs-material
+mkdocs-exclude
+mkdocs-git-revision-date-localized-plugin
