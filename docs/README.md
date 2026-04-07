@@ -53,8 +53,8 @@ AU 7933:  V T H S R 2 B 1 A 5 H 281277
 
 | Modell | Motor | Forgasser | Koblingsskjema | Ramme | Plattformdeling |
 |--------|-------|-----------|----------------|-------|-----------------|
-| Senda R 2004 | EBS050 | Dell'Orto PHVA 17,5 | Euro 2 | Stål perimeter | Gilera RCR 50 |
-| Senda SM X-Trem 2005 | EBE050 | Dell'Orto PHVA 17,5 | Euro 2 | Stål perimeter | Gilera SMT 50 |
+| Senda R 2004 | EBS050 | Dell'Orto PHVA 14 | Euro 2 | Stål perimeter | Gilera RCR 50 |
+| Senda SM X-Trem 2005 | EBE050 | Dell'Orto PHVA 14 | Euro 2 | Stål perimeter | Gilera SMT 50 |
 
 ---
 
@@ -65,7 +65,7 @@ AU 7933:  V T H S R 2 B 1 A 5 H 281277
 | Emne | Fil |
 |------|-----|
 | Motor – EBS050/EBE050 | [engines/ebs050.md](engines/ebs050.md) |
-| Forgasser – Dell'Orto PHVA 17,5 | [carburetors/dellorto-phva.md](carburetors/dellorto-phva.md) |
+| Forgasser – Dell'Orto PHVA 14 | [carburetors/dellorto-phva.md](carburetors/dellorto-phva.md) |
 | Koblingsskjema – Euro 2 | [wiring/euro2.md](wiring/euro2.md) |
 | Fargekodetabell | [wiring/color-codes.md](wiring/color-codes.md) |
 

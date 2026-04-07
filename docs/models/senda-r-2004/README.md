@@ -15,7 +15,7 @@
 3. [VIN-dekoding](#3-vin-dekoding)
 4. [Tekniske spesifikasjoner](#4-tekniske-spesifikasjoner)
 5. [Motor – EBS/EBE-familien](#5-motor--ebsebe-familien)
-6. [Forgasser – Dell'Orto PHVA 17,5](#6-forgasser--dellorto-phva-175)
+6. [Forgasser – Dell'Orto PHVA 14](#6-forgasser--dellorto-phva-14)
 7. [Transmisjon og drivverk](#7-transmisjon-og-drivverk)
 8. [Chassis, hjuloppheng og bremser](#8-chassis-hjuloppheng-og-bremser)
 9. [Elektrisk system](#9-elektrisk-system)
@@ -66,6 +66,9 @@ R-varianten skiller seg fra SM-varianten gjennom:
 
 > **Motorens serienummer** befinner seg på høyre side av styrehodet (rammenummeret) og på motorblokkens venstre side. Motoridentifisering: inneholder «EBS» eller «EBE» i nummeret.
 
+![Kjøretøyidentifikasjon](../../images/workshop_manual/vehicle-identification.png){ width="450" }
+*Plassering av rammenummer (høyre side av styrerøret) og motornummer (venstre side av motoren). Kilde: Derbi Euro 2 Workshop Manual*
+
 ---
 
 ## 4. Tekniske spesifikasjoner
@@ -109,7 +112,7 @@ R-varianten skiller seg fra SM-varianten gjennom:
 | Distribusjonsdiagram | Eksosport: 186° / Spyleporter: 126° / Blowdown: 60° |
 | Induksjon | Reed-ventil (4-blad) |
 | Kjølesystem | Væskekjølt (radiator, vannpumpe, ~1,0 liter) |
-| Brennstoffsystem | Forgasser Dell'Orto PHVA 17,5 mm |
+| Brennstoffsystem | Forgasser Dell'Orto PHVA 14 mm (iht. verkstedmanual) |
 | Tenning | CDI med rotor/generator (85W/120W) |
 | Tennplugg | NGK BR9ES / BR9EG / BR9EIX / BR8ES |
 | Elektrodegap | 0,6 mm |
@@ -203,26 +206,29 @@ Systemet består av frontmontert radiator, slanger, vannpumpe og vannkappe integ
 
 ---
 
-## 6. Forgasser – Dell'Orto PHVA 17,5
+## 6. Forgasser – Dell'Orto PHVA 14
 
-Standardforgasseren er Dell'Orto PHVA 17,5 mm. I visse markeder eller årganger ble også Keihin benyttet.
+Standardforgasseren er Dell'Orto PHVA 14 mm iht. Derbi Euro 2 Workshop Manual. I visse markeder eller årganger ble også Keihin benyttet.
 
 <figure markdown="span">
   ![Dell'Orto PHVA – front](../../images/dellorto_output/p12-PHVA-carb-front-view.png){ width="250" }
   ![Dell'Orto PHVA – bakside](../../images/dellorto_output/p12-PHVA-carb-rear-view.png){ width="250" }
-  <figcaption>Dell'Orto PHVA 17,5 mm. <em>Kilde: Dell'Orto Tuning Manual</em></figcaption>
+  <figcaption>Dell'Orto PHVA. <em>Kilde: Dell'Orto Tuning Manual</em></figcaption>
 </figure>
 
-### Spesifikasjoner
+### Spesifikasjoner (Racer/Xtreme – verkstedmanual)
 
-| Parameter | Fabrikk (urestriktert) | Begrenset (L1e) |
-|-----------|------------------------|-----------------|
-| Hoveddyse (main jet) | 85 | 74 (noen markeder: 72–75) |
-| Nålejett | A13, hakk #2 | – |
-| Tomgangsdyse (pilot jet) | 30 | 30 (noen markeder: 34–36) |
-| Forgasserstørrelse | 17,5 mm | 17,5 mm |
-| Luftskrue | – | 1,5–2,5 svinger ut |
-| Nål | – | Midterste hakk |
+| Parameter | Racer (s.10) | Xtreme (s.12) |
+|-----------|-------------|---------------|
+| Forgasser | PHVA 14 | PHVA 14 |
+| Hoveddyse | #73 | #71 |
+| Tomgangsdyse | #36 | #32 |
+| Choke-dyse | #45 | #50 |
+| Nål / posisjon | A8 / 3. hakk | A11 / 4. hakk |
+| Gasslide | #30 | #30 |
+| Emulgatorrør | #211GA | #211GA |
+| Luftskrue | 3 svinger ut | 2¾ svinger ut |
+| Tomgang | 1900 ±100 RPM | 1900 ±100 RPM |
 
 ### Forgasserjustering – tomgang
 
@@ -551,8 +557,8 @@ Motor:          49,93cc, 2-takt, væskekjølt
 Boring/slag:    39,88 × 40 mm
 Kompresjon:     11,5:1
 Tennplugg:      NGK BR9ES, gap 0,6 mm
-Forgasser:      Dell'Orto PHVA 17,5 mm
-Hoveddyse:      85 (ubegrenset) / 74 (begrenset)
+Forgasser:      Dell'Orto PHVA 14 mm (iht. verkstedmanual)
+Hoveddyse:      #73 (Racer) / #71 (Xtreme/DRD)
 Tenntidspunkt:  CDI-styrt
 Girolje:        10W-40 eller 75W90 GL-4, 650 ml
 Kjølevæske:     G12/G13 50/50 m/ dest. vann, ~1,0 liter

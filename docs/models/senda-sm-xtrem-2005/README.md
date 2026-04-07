@@ -16,7 +16,7 @@
 3. [VIN-dekoding](#3-vin-dekoding)
 4. [Tekniske spesifikasjoner](#4-tekniske-spesifikasjoner)
 5. [Motor – EBE050/EBS050](#5-motor--ebe050ebs050)
-6. [Forgasser – Dell'Orto PHVA 17,5](#6-forgasser--dellorto-phva-175)
+6. [Forgasser – Dell'Orto PHVA 14](#6-forgasser--dellorto-phva-14)
 7. [Transmisjon og drivverk](#7-transmisjon-og-drivverk)
 8. [Chassis, hjuloppheng og bremser](#8-chassis-hjuloppheng-og-bremser)
 9. [Elektrisk system og CDI-diagnostikk](#9-elektrisk-system-og-cdi-diagnostikk)
@@ -77,6 +77,9 @@ SM (Supermotard)-varianten skiller seg fra R (Enduro) gjennom:
 
 > ⚠️ VIN-koden bekrefter EBS050/EBE050-motor. I overgangsåret 2005 eksisterte to parallelle motorarkitekturer – **D50B0-deler er IKKE kompatible** med denne motoren. Verifiser alltid motortype ved delebestilling.
 
+![Kjøretøyidentifikasjon](../../images/workshop_manual/vehicle-identification.png){ width="450" }
+*Plassering av rammenummer (høyre side av styrerøret) og motornummer (venstre side av motoren, ved oljepåfyllingskorken). Kilde: Derbi Euro 2 Workshop Manual*
+
 ---
 
 ## 4. Tekniske spesifikasjoner
@@ -125,7 +128,7 @@ SM (Supermotard)-varianten skiller seg fra R (Enduro) gjennom:
 | Kompresjonsforhold | 11,5:1 (alternativt 13,0:1 avhengig av markedsspesifikasjon) |
 | Induksjon | Reed-ventil (membranventil) |
 | Kjølesystem | Væskekjølt (radiator + elektrisk vifte, ~1,1 liter) |
-| Brennstoffsystem | Forgasser Dell'Orto PHVA 17,5 mm |
+| Brennstoffsystem | Forgasser Dell'Orto PHVA 14 mm (iht. verkstedmanual) |
 | Tenning | CDI – Ducati/Kokusan (AC CDI) |
 | Generator | Magnetoalternator, 12V / 65W |
 | Tennplugg | NGK BR9ES (standard) / NGK BR8ES (varmere, bykjøring) |
@@ -230,7 +233,7 @@ Systemet består av frontmontert radiator, slanger, vannpumpe (mekanisk drevet f
 |-----------|-------|
 | Volum | ~1,1 liter |
 | Type | Etylenglykolbasert frostvæske, min -18°C frysepunkt |
-| Termostat åpner | 60°C ±2°C |
+| Termostat åpner | 67°C ±3°C |
 | Full termostatvandring | 3,5–5 mm ved 70°C |
 | Elektrisk vifte aktiverer | 97°C ±3°C |
 | Vifte deaktiverer | 85°C |
@@ -240,28 +243,31 @@ Systemet består av frontmontert radiator, slanger, vannpumpe (mekanisk drevet f
 
 ---
 
-## 6. Forgasser – Dell'Orto PHVA 17,5
+## 6. Forgasser – Dell'Orto PHVA 14
 
 ### Spesifikasjoner
 
-Forgassertype: **Dell'Orto PHVA 17,5mm ID** (Dell'Orto delenr. 06342), med 24mm manifold-tilkobling og 35mm luftfilter-tilkobling. I noen markeder ble PHVA 14mm levert som restriktert variant.
+Forgassertype: **Dell'Orto PHVA 14 mm** iht. Derbi Euro 2 Workshop Manual (s. 12, Xtreme-modeller). 14 mm diffusor, 24 mm manifold-tilkobling, 35 mm luftfilter-tilkobling.
+
+> ⚠️ **Merk:** Mange nettkilder (inkl. Dell'Orto delenr. 06342) oppgir PHVA 17,5 mm. Verkstedmanualen spesifiserer PHVA 14 for alle Senda-varianter. GPR 50 bruker PHVA 17,5.
 
 <figure markdown="span">
   ![Dell'Orto PHVA – front](../../images/dellorto_output/p12-PHVA-carb-front-view.png){ width="250" }
   ![Dell'Orto PHVA – bakside](../../images/dellorto_output/p12-PHVA-carb-rear-view.png){ width="250" }
-  <figcaption>Dell'Orto PHVA 17,5 mm. <em>Kilde: Dell'Orto Tuning Manual</em></figcaption>
+  <figcaption>Dell'Orto PHVA. <em>Kilde: Dell'Orto Tuning Manual</em></figcaption>
 </figure>
 
-| Parameter | Restriktet (L1e) | Urestriktert |
-|-----------|-------------------|--------------|
-| Hoveddyse (main jet) | 62 (noen markeder: 70–75) | 85 |
-| Tomgangsdyse (idle jet) | 30 (noen markeder: 34) | 30 |
-| Choke-dyse | 50 | 50 |
-| Nåltype | A25 (noen markeder: A13) | A25 |
-| Nålposisjon | 3. hakk (midten) | 2. hakk |
-| Diffuser/venturi | 208 GA | 208 GA |
-| Luftskrue | 1,5–2 svinger ut | 1,5–2 svinger ut |
-| Choke-type | Manuell spak | Manuell spak |
+| Parameter | Xtreme (s.12) | DRD (s.14) |
+|-----------|---------------|------------|
+| Forgasser | PHVA 14 | PHVA 14 |
+| Hoveddyse | #71 | #71 |
+| Tomgangsdyse | #32 | #32 |
+| Choke-dyse | #50 | #50 |
+| Nål / posisjon | A11 / 4. hakk | A11 / 4. hakk |
+| Gasslide | #30 | #30 |
+| Emulgatorrør | #211GA | #211GA |
+| Luftskrue | 2¾ svinger ut | 2¾ svinger ut |
+| Tomgang | 1900 ±100 RPM | 1900 ±100 RPM |
 
 ### Demontasje
 
@@ -653,7 +659,8 @@ Ekstremt vanlig etter alt kjølevæskearbeid i det lille ~1,1 L systemet. Luft g
 
 | Oppgradering | Bruksområde |
 |-------------|-------------|
-| Dell'Orto PHVA 17,5mm | Original |
+| Dell'Orto PHVA 14 mm | Original (iht. verkstedmanual) |
+| Dell'Orto PHVA 17,5mm | Oppgradering / alternativ |
 | Dell'Orto PHBG 19mm | Sport 50cc–70cc |
 | Dell'Orto PHBG 21mm | Sport 70cc+ |
 | Polini CP 19mm | Racing |
@@ -691,8 +698,8 @@ Motorkode:      EBE050 (Euro 2)
 Boring/slag:    39,88 × 40 mm
 Kompresjon:     11,5:1
 Tennplugg:      NGK BR9ES / BR8ES, gap 0,6 mm
-Forgasser:      Dell'Orto PHVA 17,5 mm (delenr. 06342)
-Hoveddyse:      85 (ubegrenset) / 62 (begrenset)
+Forgasser:      Dell'Orto PHVA 14 mm (iht. verkstedmanual)
+Hoveddyse:      #71 (Xtreme/DRD)
 Tenning:        AC CDI Ducati/Kokusan
 Girolje:        SAE 10W-40, 650 ml
 Kjølevæske:     Etylenglykol, ~1,1 L
@@ -707,7 +714,7 @@ Batteri:        12V 4Ah SLA
 Sikring:        4A
 Moment:         Topplokk 19–22 Nm, Plugg 18 Nm
                 Hjulaksel 80 Nm, Oljetapp 15–18 Nm
-Termostat:      Åpner 60°C, Vifte 97°C
+Termostat:      Åpner 67°C, Vifte 97°C
 ```
 
 ---

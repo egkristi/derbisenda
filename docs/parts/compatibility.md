@@ -4,9 +4,9 @@
 
 | Modell | Motor | Forgasser | Koblingsskjema | Ramme | Plattformdeling |
 |--------|-------|-----------|----------------|-------|-----------------|
-| Senda R 2004 | EBS050 | Dell'Orto PHVA 17,5 | Euro 2 | Stål perimeter | Gilera RCR 50 |
-| Senda SM X-Trem 2005 | EBE050 | Dell'Orto PHVA 17,5 | Euro 2 | Stål perimeter | Gilera SMT 50 |
-| Senda DRD Racing | EBS050/EBE050 | Dell'Orto PHVA 17,5 | Euro 2 | Alu perimeter (DRD Pro) | – |
+| Senda R 2004 | EBS050 | Dell'Orto PHVA 14 | Euro 2 | Stål perimeter | Gilera RCR 50 |
+| Senda SM X-Trem 2005 | EBE050 | Dell'Orto PHVA 14 | Euro 2 | Stål perimeter | Gilera SMT 50 |
+| Senda DRD Racing | EBS050/EBE050 | Dell'Orto PHVA 14 | Euro 2 | Alu perimeter (DRD Pro) | – |
 | Senda post-2006 | D50B0 | Dell'Orto PHBN | Euro 3 | Stål/alu perimeter | Gilera SMT/RCR post-06 |
 
 ## Kryssreferanse mellom modeller

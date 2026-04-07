@@ -1,11 +1,13 @@
-# Dell'Orto PHVA 17,5 mm – Forgasser
+# Dell'Orto PHVA 14 – Forgasser
 
-Standardforgasseren på alle EBS/EBE-drevne Derbi Senda (1995–2005) er **Dell'Orto PHVA 17,5 mm** med 24 mm manifold-tilkobling og 35 mm luftfilter-tilkobling.
+Standardforgasseren på alle EBS/EBE-drevne Derbi Senda (1995–2005) er **Dell'Orto PHVA 14 mm** iht. Derbi Euro 2 Workshop Manual. GPR 50 Racing bruker PHVA 17,5 mm.
+
+> ⚠️ **Merk:** Mange nettkilder oppgir feilaktig PHVA 17,5 mm for Senda-modellene. Verkstedmanualen (s. 10–15) spesifiserer PHVA 14 med 14 mm diffusor for alle Senda Racer-, Xtreme- og DRD-varianter.
 
 <figure markdown="span">
   ![Dell'Orto PHVA – front](../images/dellorto_output/p12-PHVA-carb-front-view.png){ width="280" }
   ![Dell'Orto PHVA – bakside](../images/dellorto_output/p12-PHVA-carb-rear-view.png){ width="280" }
-  <figcaption>Dell'Orto PHVA 17,5 mm – front og bakside. <em>Kilde: Dell'Orto Tuning Manual</em></figcaption>
+  <figcaption>Dell'Orto PHVA – front og bakside. <em>Kilde: Dell'Orto Tuning Manual</em></figcaption>
 </figure>
 
 ![Dell'Orto PHVA for småmotorer](../images/dellorto_output/p12-PHVA-carbs-small-displacement.png){ width="400" }
@@ -44,29 +46,38 @@ Forgasseren har en **24 mm hann-stuss** som presses inn i den fleksible innsugsg
 *Drivstoffleveringssystem med nummererte komponenter. Kilde: Dell'Orto Tuning Manual*
 
 ![Fleksibel koblingsstuss](../images/dellorto_output/p06-male-sleeve-flexible-coupling.png){ width="350" }
-*Hann-stuss med fleksibel gummikobling – tilsvarende PHVA 17,5 sin 24 mm manifold-tilkobling.*
+*Hann-stuss med fleksibel gummikobling – tilsvarende PHVA sin 24 mm manifold-tilkobling.*
 
 ---
 
-## Jetting per modell
+## Jetting per modell (iht. verkstedmanual)
 
-| Parameter | Senda R 2004 (restriktet) | Senda R 2004 (ubegrenset) | Senda SM 2005 (restriktet) | Senda SM 2005 (ubegrenset) |
-|-----------|---------------------------|---------------------------|----------------------------|----------------------------|
-| Hoveddyse | 74 (noen: 72–75) | 85 | 62 (noen: 70–75) | 85 |
-| Tomgangsdyse | 30 (noen: 34–36) | 30 | 30 (noen: 34) | 30 |
-| Choke-dyse | – | – | 50 | 50 |
-| Nåltype | A13, hakk #2 | A13, hakk #2 | A25 (noen: A13) | A25, hakk #2 |
-| Nålposisjon | Midten | Midten | 3. hakk (midten) | 2. hakk |
-| Diffuser | – | – | 208 GA | 208 GA |
-| Luftskrue | 1,5–2,5 svinger ut | 1,5–2,5 svinger ut | 1,5–2 svinger ut | 1,5–2 svinger ut |
+Verdiene under er fra Derbi Euro 2 Workshop Manual (s. 10–15). «Racer» tilsvarer eldre Senda R/SM, «Xtreme» tilsvarer X-Trem/X-Race, «DRD» tilsvarer DRD-varianter.
+
+| Parameter | Racer (s.10) | Xtreme (s.12) | DRD (s.14) | GPR 50 (s.16) |
+|-----------|-------------|---------------|------------|---------------|
+| Forgasser | PHVA 14 | PHVA 14 | PHVA 14 | PHVA 17,5 |
+| Diffusor | 14 mm | 14 mm | 14 mm | 17,5 mm |
+| Hoveddyse | #73 | #71 | #71 | #98 |
+| Tomgangsdyse | #36 | #32 | #32 | #34 |
+| Choke-dyse | #45 | #50 | #50 | #50 |
+| Nål / posisjon | A8 / 3. hakk | A11 / 4. hakk | A11 / 4. hakk | A15 / 4. hakk |
+| Gasslide | #30 | #30 | #30 | #40 |
+| Emulgatorrør | #211GA | #211GA | #211GA | #212FA |
+| Luftskrue | 3 svinger ut | 2¾ svinger ut | 2¾ svinger ut | 3 svinger ut |
+| Flottørvekt | 3,5 g | 3,5 g | 3,5 g | 3,5 g |
+| Tomgang | 1900 ±100 RPM | 1900 ±100 RPM | 1900 ±100 RPM | 1900 ±100 RPM |
+
+> **Senda R 2004 (NL 3874)** er en Racer- eller Xtreme-variant → PHVA 14, hoveddyse #71–73, nål A8 eller A11.
+> **Senda SM X-Trem 2005 (AU 7933)** er en Xtreme-variant → PHVA 14, hoveddyse #71, nål A11/4th.
 
 ## Justering steg for steg
 
 ### Tomgang
 1. Skru inn luftskruen forsiktig helt inn
-2. Skru den **1,5–2 omdreininger ut** som utgangspunkt
+2. Skru den **2¾ omdreininger ut** som utgangspunkt (iht. verkstedmanual for Xtreme/DRD)
 3. Start motoren og varm opp ~3 minutter
-4. Juster tomgangsskruen til ~**1600–2000 RPM**
+4. Juster tomgangsskruen til ~**1900 ±100 RPM**
 5. Skru luftskruen langsomt inn/ut til høyeste stabile turtall
 6. Sett tomgangsskruen tilbake til målverdi
 7. Gasskabel fritt spill: **3–5 mm**
@@ -142,8 +153,36 @@ Flottørnivået kontrollerer bensinnivået i forgasserkammeret og påvirker blan
 
 ---
 
+## Komplett forgasser-kryssreferanse (verkstedmanual s. 32)
+
+Denne tabellen fra Derbi Euro 2 Workshop Manual dekker alle modeller som brukte Dell'Orto-forgassere.
+
+??? note "Klikk for å utvide komplett jetting-tabell (38 modeller)"
+
+    | Kjøretøy | Forgasser | Hoveddyse | Nål/pos. | Gasslide | Choke | Tomgangsdyse | Luftskrue | Emulgator | Flottør (g) |
+    |----------|-----------|-----------|----------|----------|-------|-------------|-----------|-----------|-------------|
+    | Senda R/SM 2000 (Spain/Fra) | PHVA 14DD | #71 | A11/4th | #30 | #45 | #32 | 2¾ | #211GA | 3,5 |
+    | Senda R/SM 2000 (Italy) | PHVA 12DD | #65 | A11/4th | #30 | #45 | – | 2½ | #211GA | 3,5 |
+    | Senda R 2000 (WVTA) | PHVA 14DD | #53 | A11/3rd | #40 | #50 | #33 | 1¾ | #208GA | 3,5 |
+    | Gilera Zulu (WVTA) | PHVA 14DD | #54 | A11/3rd | #40 | #50 | #34 | 2±¼ | #208GA | 3,5 |
+    | Senda R/Fenix (Spain) | PHVA 14DD | #73 | A8/3rd | #30 | #45 | #36 | 3 | #211GA | 3,5 |
+    | Senda R (France) | PHVA 14DD | #60 | A11/3rd | #30 | #50 | #36 | 2½ | #210GA | 3,5 |
+    | Senda R (Italy) | PHVA 12DD | #65 | A11/4th | #30 | #45 | #38 | 2½ | #211GA | 3,5 |
+    | Senda R (Austria) | PHVA 14DD | #60 | A11/3rd | #40 | #50 | #38 | 2¼ | #208GA | 3,5 |
+    | Senda R (Germany/95) | PHVA 14DD | #62 | A11/3rd | #40 | #50 | #34 | 2,5 | #208GA | 3,5 |
+    | Senda R 100 (SouthAm.) | PHVA 17.5ED | #83 | A7/3rd | #40 | #50 | #34 | 2½ | #212FA | 3,5 |
+    | Senda SM (Austria) | PHVA 14DD | #63 | A8/3rd | #30 | #45 | #36 | 3 | #211GA | 3,5 |
+    | GPR 50 R (WVTA) | PHVA 17.5TS | #54 | A11/3rd | #30 | #45 | #34 | 3 | #208GA | 3,5 |
+    | GPR 50 R (Spain) | PHVA 17.5ED | #98 | A15/4th | #40 | #50 | #34 | 3 | #212FA | 3,5 |
+    | GPR 50 R (France) | PHVA 14DD | #70 | A11/3rd | #30 | #45 | #36 | 2½ | #208GA | 3,5 |
+    | Bultaco Lobito (WVTA) | PHVA 14DD | #53 | A29/3rd | #40 | #50 | #33 | 1¾ | #212GA | 3,5 |
+
+    *Kilde: Derbi Euro 2 Workshop Manual, side 32 (komprimert utdrag). Se verkstedmanualen for fullstendig tabell med alle 38 modeller.*
+
+---
+
 ## Modellspesifikke forgasserdetaljer
 
 - [Komplett justeringsguide (demontasje, rengjøring, jetting, plug chop)](tuning-guide.md)
-- [Senda R 2004 – Forgasser](../models/senda-r-2004/README.md#6-forgasser--dellorto-phva-175)
-- [Senda SM X-Trem 2005 – Forgasser](../models/senda-sm-xtrem-2005/README.md#6-forgasser--dellorto-phva-175)
+- [Senda R 2004 – Forgasser](../models/senda-r-2004/README.md#6-forgasser--dellorto-phva-14)
+- [Senda SM X-Trem 2005 – Forgasser](../models/senda-sm-xtrem-2005/README.md#6-forgasser--dellorto-phva-14)

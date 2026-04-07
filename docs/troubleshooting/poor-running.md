@@ -9,8 +9,8 @@ Forgasseren har **tre kretser** som styrer ulike gassposisjoner. Identifiser hvo
 
 | Gassposisjon | Styres av | Justerbar komponent |
 |---|---|---|
-| Tomgang – ¼ gass | Luftskrue + tomgangsdyse | Luftskrue (1,5–2 svinger ut), pilot jet |
-| ¼ – ¾ gass | Nål og nålposisjon | Nålklips (A13/A25) |
+| Tomgang – ¼ gass | Luftskrue + tomgangsdyse | Luftskrue (2¾ svinger ut), pilot jet |
+| ¼ – ¾ gass | Nål og nålposisjon | Nålklips (A8/A11) |
 | ¾ – full gass | Hoveddyse | Main jet |
 
 <figure markdown="span">
@@ -76,7 +76,7 @@ Forgasseren har **tre kretser** som styrer ulike gassposisjoner. Identifiser hvo
    │
    ├── Kun ved lav gass (tomgang–¼) →
    │   Tilstoppet pilot jet eller feil luftskrue.
-   │   Rens tomgangsdyse, juster luftskrue (1,5–2 svinger ut)
+   │   Rens tomgangsdyse, juster luftskrue (2¾ svinger ut)
    │
    ├── Kun ved mellomgass (¼–¾) →
    │   Feil nålposisjon. Flytt klips ett hakk ned (rikere)

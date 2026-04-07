@@ -9,7 +9,7 @@ Temperaturvarsel lyser, motor mister kraft, kjølevæske koker over, eller melke
 flowchart LR
     R["Radiator\n(frontmontert)"] -->|Nedre slange| VP["Vannpumpe\n(mekanisk)"]
     VP -->|Trykkside| VK["Vannkappe\n(sylinder + topplokk)"]
-    VK -->|Øvre slange| T{"Termostat\n60°C"}
+    VK -->|Øvre slange| T{"Termostat\n67°C"}
     T -->|Åpen| R
     T -->|Stengt| VK
     VK -.->|Temp > 97°C| V["Vifte\n(elektrisk)"]
@@ -21,7 +21,7 @@ flowchart LR
 
 | Årsak | Diagnose | Løsning |
 |-------|---------|---------|
-| Termostat sitter fast (lukket) | Demonter og test i varmt vann (skal åpne ved 60°C) | Bytt termostat |
+| Termostat sitter fast (lukket) | Demonter og test i varmt vann (skal begynne å åpne ved 67°C) | Bytt termostat |
 | Lavt kjølevæskenivå | Sjekk nivå i radiator + ekspansjonsbeholder | Etterfyll, sjekk lekkasje |
 | Luftlomme i kjølesystemet | Vanlig etter alt kjølevæskearbeid | Luft med motor i gang, radiatorkorken av |
 | Defekt vifte | Vifte skal slå inn ved ~97°C | Sjekk kontakt og termobryter |
@@ -48,10 +48,10 @@ Et «weep hole» i vannpumpehuset varsler om ytre simringsvikt. De to simringene
 
 | Parameter | Verdi |
 |-----------|-------|
-| Termostat åpner | 60°C ±2°C |
-| Full vandring | 3,5–5 mm ved 70°C |
+| Termostat begynner å åpne | 67°C ±3°C |
+| Termostat helt åpen (full vandring) | 75°C (3,0 mm vandring) |
 | Vifte aktiverer | 97°C ±3°C |
-| Vifte deaktiverer | 85°C |
+| Vifte deaktiverer | 85°C ±3°C |
 | Overopphetings-varsel | 124°C ±3°C |
 
 ## Se også

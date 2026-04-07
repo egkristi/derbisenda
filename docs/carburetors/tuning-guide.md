@@ -1,8 +1,8 @@
-# Dell'Orto PHVA 17,5 mm – Komplett justeringsguide
+# Dell'Orto PHVA 14 – Komplett justeringsguide
 
 > **Gjelder:** Derbi Senda R 2004 (NL 3874) · Senda SM X-Trem 2005 (AU 7933)  
 > **Motor:** EBS050 / EBE050  
-> **Forgasser:** Dell'Orto PHVA 17,5 mm (delenr. 06342)
+> **Forgasser:** Dell'Orto PHVA 14 mm (Xtreme/DRD-variant)
 
 ---
 
@@ -26,7 +26,9 @@
 
 ## 1. Forgasserens anatomi
 
-PHVA 17,5 er en horisontal piston-slide-forgasser med mekanisk gass-stempel og automatisk choke (eller manuell choke på noen varianter). «17,5» refererer til venturi-diameteren i millimeter – tverrsnittsinnsnevringen som skaper undertrykket som trekker inn drivstoff.
+PHVA 14 er en horisontal piston-slide-forgasser med mekanisk gass-stempel og automatisk choke (eller manuell choke på noen varianter). «14» refererer til venturi-diameteren i millimeter – tverrsnittsinnsnevringen som skaper undertrykket som trekker inn drivstoff.
+
+> ⚠️ **Merk:** Mange nettkilder oppgir feilaktig PHVA 17,5 mm for Senda-modellene. Derbi Euro 2 Workshop Manual (s. 10–15) spesifiserer PHVA 14 med 14 mm diffusor for alle Senda Racer/Xtreme/DRD-varianter. Kun GPR 50 bruker PHVA 17,5.
 
 ### Komponentoversikt
 
@@ -123,7 +125,7 @@ Ingen av disse systemene er helt isolert – endringer i ett system påvirker na
 - Forgasserrens (spray, f.eks. Würth, Liqui Moly)
 - Trykkluft (kompressor eller boks)
 - Bensin (rent) til skylling
-- O-ring-sett PHVA 17,5 (Dell'Orto PHVA overhalingssett)
+- O-ring-sett PHVA 14 (Dell'Orto PHVA overhalingssett)
 - Evt. nye dyser (se jetting-tabell i §6)
 - WD-40 / lettflytende olje til kabler
 
@@ -355,7 +357,7 @@ Messingdyse med en kalibrert boreåpning. Dysenummeret er diameteren i hundredel
 
 ### 5.5 Tomgangsdyse (pilot jet)
 
-Styrer blandingen ved tomgang. På EBS/EBE med PHVA 17,5 er fabrikkstandard 30 og denne sjelden behøver endring med mindre motoren er vesentlig modifisert.
+Styrer blandingen ved tomgang. På EBS/EBE med PHVA 14 er fabrikkstandard #32 (Xtreme/DRD) eller #36 (Racer) iht. verkstedmanualen.
 
 ![Tomgangskrets – oversikt](../images/dellorto_output/p13-PH-carb-idle-circuit-overview.png){ width="400" }
 *Oversikt over tomgangskretsen: drivstoff trekkes gjennom tomgangsdysen, blandes med luft fra luftskruen, og leveres via progresjonshullene under gass-stempelet.*
@@ -374,18 +376,20 @@ Kontrollerer bensinnivået i forgasserkammeret. Et for lavt nivå gir mager blan
 
 ## 6. Jetting-referanse per modell
 
-### Standard fabrikkinnstilling (EBS/EBE – PHVA 17,5)
+### Standard fabrikkinnstilling (EBS/EBE – PHVA 14, iht. verkstedmanual)
 
-| Parameter | Senda R 2004 restriktet | Senda R 2004 ubegrenset | Senda SM 2005 restriktet | Senda SM 2005 ubegrenset |
-|-----------|------------------------|------------------------|------------------------|------------------------|
-| Hoveddyse | 74 (noen: 72–75) | 85 | 62 (noen: 70–75) | 85 |
-| Tomgangsdyse | 30 (noen: 34–36) | 30 | 30 (noen: 34) | 30 |
-| Choke-dyse | — | — | 50 | 50 |
-| Nåltype | A13 | A13 | A25 (noen: A13) | A25 |
-| Nålposisjon | Hakk 3 (midten) | Hakk 2 | Hakk 3 (midten) | Hakk 2 |
-| Diffuser | — | — | 208 GA | 208 GA |
-| Luftskrue | 1,5–2,5 svinger ut | 1,5–2,5 svinger ut | 1,5–2 svinger ut | 1,5–2 svinger ut |
-| Nålventil | 1,5 mm | 1,5 mm | 1,5 mm | 1,5 mm |
+| Parameter | Racer (s.10) | Xtreme / X-Trem (s.12) | DRD (s.14) |
+|-----------|-------------|------------------------|------------|
+| Diffusor | 14 mm | 14 mm | 14 mm |
+| Hoveddyse | #73 | #71 | #71 |
+| Tomgangsdyse | #36 | #32 | #32 |
+| Choke-dyse | #45 | #50 | #50 |
+| Nål / posisjon | A8 / 3. hakk | A11 / 4. hakk | A11 / 4. hakk |
+| Gasslide | #30 | #30 | #30 |
+| Emulgatorrør | #211GA | #211GA | #211GA |
+| Luftskrue | 3 svinger ut | 2¾ svinger ut | 2¾ svinger ut |
+| Nålventil | 1,5 mm | 1,5 mm | 1,5 mm |
+| Tomgang (RPM) | 1900 ±100 | 1900 ±100 | 1900 ±100 |
 
 ### Justeringsretning ved tuning
 
@@ -559,7 +563,7 @@ Flottøren regulerer bensinnivået i forgasserkammeret via nålventilen. Nivået
 
 | Parameter | Verdi |
 |-----------|-------|
-| Mål A (flottørhøyde, PHVA 17,5) | **18 ± 0,5 mm** |
+| Mål A (flottørhøyde, PHVA 14) | **18 ± 0,5 mm** |
 | Maks tillatt avvik | ±1 mm |
 
 ```
@@ -730,6 +734,6 @@ Gjennomfør plug chop-prosedyren som beskrevet i §8 for å verifisere hoveddyse
 - [Motor – EBS050/EBE050](../engines/ebs050.md)
 - [Feilsøking: Starter ikke](../troubleshooting/no-start.md)
 - [Feilsøking: Dør på gass](../troubleshooting/poor-running.md)
-- [Senda R 2004 – Forgasserdetaljer](../models/senda-r-2004/README.md#6-forgasser--dellorto-phva-175)
-- [Senda SM 2005 – Forgasserdetaljer](../models/senda-sm-xtrem-2005/README.md#6-forgasser--dellorto-phva-175)
+- [Senda R 2004 – Forgasserdetaljer](../models/senda-r-2004/README.md#6-forgasser--dellorto-phva-14)
+- [Senda SM 2005 – Forgasserdetaljer](../models/senda-sm-xtrem-2005/README.md#6-forgasser--dellorto-phva-14)
 
